@@ -1,0 +1,12 @@
+SafeSpend – Responsible Financial Planning
+npm init -y
+
+npm install express dotenv bcryptjs mongoose jsonwebtoken
+
+express – Framework to build web servers and APIs in Node.js
+dotenv – Loads environment variables (secrets/config) from a .env file
+bcryptjs – Hashes passwords securely before storing them
+mongoose – Connects Node.js to MongoDB and provides schemas/models
+jsonwebtoken – Creates and verifies JWT tokens for authentication
+
+models has all the database schemas used in project
