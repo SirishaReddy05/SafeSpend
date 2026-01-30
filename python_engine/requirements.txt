@@ -1,0 +1,26 @@
+# UI
+streamlit
+
+# LLM / Agent framework
+langchain
+langchain-community
+langchain-openai
+
+# OCR & Image processing
+pytesseract
+Pillow
+easyocr
+opencv-python
+
+# Data processing
+pandas
+numpy
+
+# Vector DB
+chromadb
+
+# Environment variables
+python-dotenv
+
+# PDF handling (Python side only)
+pdf2image
