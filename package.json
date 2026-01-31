@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"node backend/server.js\" \"python python_engine/app.py\"",
+    "frontend": "vite",
+    "frontend:build": "vite build",
+    "frontend:preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
@@ -12,15 +15,28 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.4",
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.1.2"
+    "mongoose": "^9.1.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.0"
   },
   "devDependencies": {
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "autoprefixer": "^10.4.23",
     "concurrently": "^9.2.1",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
   }
 }

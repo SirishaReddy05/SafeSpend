@@ -1,23 +1,19 @@
 import mongoose from "mongoose";
 import bcrypt from "bcryptjs";
-import validator from "validator";
 
 const userSchema = new mongoose.Schema({
-  username: {
+  firstname: {
     type: String,
     required: true,
-    unique: true,
+  },
+  lastname: {
+    type: String,
+    required: true,
   },
   email: {
     type: String,
     required: true,
-    unique: true,
-    validate: {
-    validator: function (v) {
-        return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v);
-      },
-      message: props => `${props.value} is not a valid email address`
-    }
+    unique: true
   },
   password: {
     type: String,

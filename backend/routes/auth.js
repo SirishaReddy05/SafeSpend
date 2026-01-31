@@ -4,25 +4,29 @@ import User from '../models/user.js';
 import { protect } from '../middleware/auth.js';
 
 const router = express.Router();
-router.get('/test', async (req, res) => {
-    return "API is working";
-});
 
 // Register new user
 router.post('/register', async (req, res) => {
-  const { username, email, password } = req.body;     
+  const { firstname, lastname, email, password } = req.body;     
     try {   
-        if(!username || !email || !password){
+        if(!firstname || !lastname || !email || !password){
             return res.status(400).json({ message: 'Please fill all the fields' });
         }
         const userExists = await User.findOne({ email });   
         if (userExists) {     
             return res.status(400).json({ message: 'User already exists' });   
         }   
+        const user = await User.create({
+            firstname,
+            lastname,
+            email,
+            password
+        });
         const token = generateToken(user._id);
         res.status(201).json({
             id: user._id,
-            username: user.username,
+            firstname: user.firstname,
+            lastname: user.lastname,
             email: user.email,
             token
         })
@@ -45,7 +49,8 @@ router.post('/login', async (req, res) => {
         }
         res.status(200).json({
         id: user._id,
-        username: user.username,
+        firstname: user.firstname,
+        lastname: user.lastname,
         email: user.email,
         token
         });

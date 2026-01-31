@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SafeSpend",
+  "description": "A high-fidelity, structured authentication frontend for SafeSpend, featuring responsive sign-in and sign-up flows with modern UI/UX principles and integrated financial AI tips powered by Gemini.",
+  "requestFramePermissions": []
+}
