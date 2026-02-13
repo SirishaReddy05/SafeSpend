@@ -6,10 +6,10 @@ import { protect } from '../middleware/auth.js';
 const router = express.Router();
 
 // Register new user
-router.post('/register', async (req, res) => {
-  const { firstname, lastname, email, password } = req.body;     
+router.post('/signup', async (req, res) => {
+  const { firstName, lastName, email, password } = req.body;     
     try {   
-        if(!firstname || !lastname || !email || !password){
+        if(!firstName || !lastName  || !email || !password){
             return res.status(400).json({ message: 'Please fill all the fields' });
         }
         const userExists = await User.findOne({ email });   
@@ -17,47 +17,53 @@ router.post('/register', async (req, res) => {
             return res.status(400).json({ message: 'User already exists' });   
         }   
         const user = await User.create({
-            firstname,
-            lastname,
+            firstName,
+            lastName,
             email,
             password
         });
         const token = generateToken(user._id);
         res.status(201).json({
             id: user._id,
-            firstname: user.firstname,
-            lastname: user.lastname,
+            firstName: user.firstName,
+            lastName: user.lastName,
             email: user.email,
             token
         })
   } catch (error) {
-    res.status(500).json({ message: 'Server error' });
-  }       
+    console.log("Signup Error:", error);
+    res.status(500).json({ message: error.message });
+  }     
 });
 
 // Login user
-router.post('/login', async (req, res) => {
-  const { email, password } = req.body; 
-    try {
-        if (!email || !password) {
-            return res.status(400).json({ message: 'Please fill all the fields' });
-        }  
-        const user = await User.findOne({ email });
-        const token = generateToken(user._id);
-        if(!user || !(await user.matchPassword(password))) {
-            return  res.status(401).json({ message: 'Invalid email or password' });
-        }
-        res.status(200).json({
-        id: user._id,
-        firstname: user.firstname,
-        lastname: user.lastname,
-        email: user.email,
-        token
-        });
-    } catch (error) {       
-        res.status(500).json({ message: 'Server error' });
+router.post('/signin', async (req, res) => {
+  const { email, password } = req.body;
+
+  try {
+    if (!email || !password) {
+      return res.status(400).json({ message: 'Please fill all the fields' });
     }
-    
+
+    const user = await User.findOne({ email });
+
+    if (!user || !(await user.matchPassword(password))) {
+      return res.status(401).json({ message: 'Invalid email or password' });
+    }
+
+    const token = generateToken(user._id);
+
+    res.status(200).json({
+      id: user._id,
+      firstName: user.firstName,
+      lastName: user.lastName,
+      email: user.email,
+      token
+    });
+
+  } catch (error) {
+    res.status(500).json({ message: 'Server error' });
+  }
 });
 
 const generateToken = (id) => {

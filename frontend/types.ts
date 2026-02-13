@@ -24,3 +24,9 @@ export interface Transaction {
   date: string;
   type: 'expense' | 'income';
 }
+
+export interface NavItem {
+  id: string;
+  label: string;
+  icon: React.ReactNode;
+}

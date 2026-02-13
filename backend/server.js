@@ -7,7 +7,11 @@ import { connectDB } from './config/db.js';
 import cors from 'cors';
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: ["http://localhost:5173", "http://localhost:5174"],
+  credentials: true
+}));
+
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

@@ -1,0 +1,41 @@
+BH23 B.Tech. CSE Syllabus BVRITHCEW
+B.Tech. III Year II Semester
+Course Code Course Title L T P Credits
+CS612PE Scripting Languages 30 0 3
+
+Pre-Requisite: Programming for Problem Solving
+
+Course Description: This course contains script programming paradigm and introduces languages namely
+
+Ruby, Perl, TCL and Tk components.
+
+Course Outcomes: After completion of this course, the student will be able to
+
+612.1 Differentiate among typical scripting languages, typical system and application programming
+languages.
+
+612.2 Apply the basic concepts of Perl. Design programs in Advanced Perl and Interfacing
+Different Operating Systems Security Issues.
+
+612.3 Develop Ruby web applications along with SOAP and web services. Incorporate a Ruby
+interpreter with Embed Ruby.
+
+612.4 Design the scripts using TCL and Tk along with Perl.
+
+612.5 Implement the appropriate utilities to manage the Linux environment.
+
+612.6 Implement shell scripts to automate the administrative process
+
+Unit - I Introduction to Scripting PERL, Advanced PERL
+
+Scripts and Programs, Origin of Scripting, Scripting Today, Characteristics of Scripting Languages, Uses
+
+for Scripting Languages, Web Scripting, and the universe of Scripting Languages.
+
+PERL- Names and Values, Variables, Scalar Expressions, Control Structures, Arrays and Lists, Hashes,
+
+Strings, Patterns and Regular Expressions, Subroutines. Advanced PERL - Finer points of looping, Pack
+
+and unpack, filesystem, eval, Data Structures, Packages, Modules, Objects, Interfacing to the operating
+
+system, Creating Internet-aware applications, Dirty Hands Internet Programming, Security Issues.

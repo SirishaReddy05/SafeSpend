@@ -10,3 +10,5 @@ mongoose – Connects Node.js to MongoDB and provides schemas/models
 jsonwebtoken – Creates and verifies JWT tokens for authentication
 
 models has all the database schemas used in project
+
+python virtual environment activate - .\venv\Scripts\activate

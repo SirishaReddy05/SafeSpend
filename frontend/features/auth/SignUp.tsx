@@ -1,8 +1,8 @@
-
-import React, { useState } from 'react';
-import Input from '../../components/Input';
-import Button from '../../components/Button';
-import { AppView } from '../../types';
+import React, { useState } from "react";
+import Input from "../../components/Input";
+import Button from "../../components/Button";
+import { AppView } from "../../types";
+import authService from "../../services/authService";
 
 interface SignUpProps {
   onSwitch: (view: AppView) => void;
@@ -11,58 +11,135 @@ interface SignUpProps {
 
 const SignUp: React.FC<SignUpProps> = ({ onSwitch, onSuccess }) => {
   const [isLoading, setIsLoading] = useState(false);
+  const [firstName, setFirstName] = useState("");
+  const [lastName, setLastName] = useState("");
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
-    setTimeout(() => {
+
+    try {
+      const response = await authService.signup(
+        firstName,
+        lastName,
+        email,
+        password
+      );
+
+      console.log("Signup successful:", response.data);
+
       setIsLoading(false);
       onSuccess();
-    }, 1500);
+    } catch (error: any) {
+      console.error("Signup failed:", error);
+      setIsLoading(false);
+
+      alert(error.response?.data?.message || "Signup failed");
+    }
   };
 
   return (
     <div className="w-full">
       <div className="mb-6">
         <h2 className="text-2xl font-bold text-slate-900 mb-1">Sign Up</h2>
-        <p className="text-slate-500 text-sm">Enter your information to create an account</p>
+        <p className="text-slate-500 text-sm">
+          Enter your information to create an account
+        </p>
       </div>
 
       <form onSubmit={handleSubmit} className="space-y-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <Input 
+          <Input
             label="First Name"
             placeholder="John"
             required
+            value={firstName}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+              setFirstName(e.target.value)
+            }
             icon={
-              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
+                <circle cx="12" cy="7" r="4" />
+              </svg>
             }
           />
-          <Input 
+
+          <Input
             label="Last Name"
             placeholder="Doe"
             required
+            value={lastName}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+              setLastName(e.target.value)
+            }
           />
         </div>
 
-        <Input 
+        <Input
           label="Email"
           type="email"
           placeholder="name@example.com"
           required
+          value={email}
+          onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+            setEmail(e.target.value)
+          }
           icon={
-            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <rect width="20" height="16" x="2" y="4" rx="2" />
+              <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
+            </svg>
           }
         />
 
         <div className="space-y-1">
-          <Input 
+          <Input
             label="Password"
             type="password"
             placeholder="••••••••"
             required
+            value={password}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) =>
+              setPassword(e.target.value)
+            }
             icon={
-              <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <rect width="18" height="11" x="3" y="11" rx="2" ry="2" />
+                <path d="M7 11V7a5 5 0 0 1 10 0v4" />
+              </svg>
             }
           />
           <p className="text-[10px] text-slate-400 leading-tight">
@@ -71,14 +148,20 @@ const SignUp: React.FC<SignUpProps> = ({ onSwitch, onSuccess }) => {
         </div>
 
         <div className="flex items-start pt-1">
-          <input 
-            type="checkbox" 
-            id="terms" 
+          <input
+            type="checkbox"
+            id="terms"
             required
             className="mt-1 w-4 h-4 rounded border-slate-300 text-emerald-600 focus:ring-emerald-500 cursor-pointer"
           />
-          <label htmlFor="terms" className="ml-2 text-sm text-slate-600 leading-tight cursor-pointer">
-            I agree to the <span className="text-emerald-600 font-medium hover:underline">Terms of Service</span>
+          <label
+            htmlFor="terms"
+            className="ml-2 text-sm text-slate-600 leading-tight cursor-pointer"
+          >
+            I agree to the{" "}
+            <span className="text-emerald-600 font-medium hover:underline">
+              Terms of Service
+            </span>
           </label>
         </div>
 
@@ -89,8 +172,9 @@ const SignUp: React.FC<SignUpProps> = ({ onSwitch, onSuccess }) => {
 
       <div className="mt-6 text-center border-t border-slate-100 pt-6">
         <p className="text-sm text-slate-500">
-          Already have an account?{' '}
-          <button 
+          Already have an account?{" "}
+          <button
+            type="button"
             onClick={() => onSwitch(AppView.SIGN_IN)}
             className="font-semibold text-emerald-600 hover:text-emerald-700 underline-offset-4 hover:underline"
           >
