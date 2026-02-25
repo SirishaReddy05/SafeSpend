@@ -3,6 +3,11 @@ import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import authRoutes from './routes/auth.js';
+import budgetRoutes from './routes/budgetRoutes.js';
+import debtRoutes from './routes/debtRoutes.js';
+import goalsRoutes from './routes/goalsRoutes.js';
+import savingsRoutes from './routes/savingsRoutes.js';
+import walletRoutes from './routes/walletRoutes.js';
 import { connectDB } from './config/db.js';
 import cors from 'cors';
 
@@ -22,6 +27,11 @@ const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 app.use('/api/users', authRoutes);
+app.use('/api/budget', budgetRoutes);
+app.use('/api/debt', debtRoutes);
+app.use('/api/goals', goalsRoutes);
+app.use('/api/savings', savingsRoutes);
+app.use('/api/wallet', walletRoutes);
 
 connectDB();
 

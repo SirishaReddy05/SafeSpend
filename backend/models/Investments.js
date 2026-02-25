@@ -16,6 +16,7 @@ const investmentSchema = new mongoose.Schema({
   },
     date: { 
     type: Date,
+    default: Date.now,
     required: true,
   },
   DateOfMaturity: {

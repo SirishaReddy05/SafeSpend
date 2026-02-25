@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"node backend/server.js\" \"python python_engine/app.py\"",
+    "start": "node backend/server.js",
     "frontend": "vite",
     "frontend:build": "vite build",
     "frontend:preview": "vite preview",

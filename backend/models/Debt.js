@@ -50,4 +50,5 @@ dueDate: {
 }, { timestamps: true });
 
 const Debt = mongoose.model("Debt", debtSchema);
+export default Debt;
 
