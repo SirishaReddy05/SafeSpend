@@ -1,4 +1,4 @@
-import Savings from '../models/savings.js';
+import Savings from '../models/Savings.js';
 
 const addSavings = async (req, res) => {
     try {

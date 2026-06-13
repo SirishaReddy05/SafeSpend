@@ -1,15 +1,14 @@
-import Goals from '../models/Goals.js';
+import Goal from '../models/Goals.js';
 
 const addGoal = async (req, res) => {
     try {
         const { userId, name, targetAmount, targetDate, currentAmount, deadline } = req.body;
-        const newGoal = new Goals({
+        const newGoal = new Goal({
             user: userId,
             name,
             targetAmount,   
             targetDate,
             currentAmount,
-            deadline,
         }); 
         const savedGoal = await newGoal.save();
         res.status(201).json(savedGoal);
@@ -44,10 +43,10 @@ const deleteGoal = async (req, res) => {
 const updateGoal = async (req, res) => {
     try {
         const { goalId } = req.params;
-        const {targetAmount, targetDate} = req.body;
+        const { targetAmount, targetDate, currentAmount, name } = req.body;
         const updatedGoal = await Goal.findByIdAndUpdate(
             goalId,
-            { targetAmount, targetDate },
+            { targetAmount, targetDate, currentAmount, name },
             { new: true }
         );
         res.status(200).json(updatedGoal);

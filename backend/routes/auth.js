@@ -1,9 +1,19 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
-import User from '../models/user.js';
+import User from '../models/User.js';
 import { protect } from '../middleware/auth.js';
 
 const router = express.Router();
+
+const serializeUser = (user, token) => ({
+  id: user._id,
+  firstName: user.firstName,
+  lastName: user.lastName,
+  email: user.email,
+  phone: user.phone ?? '',
+  avatar: user.avatar ?? '',
+  ...(token ? { token } : {}),
+});
 
 // Register new user
 router.post('/signup', async (req, res) => {
@@ -23,13 +33,7 @@ router.post('/signup', async (req, res) => {
             password
         });
         const token = generateToken(user._id);
-        res.status(201).json({
-            id: user._id,
-            firstName: user.firstName,
-            lastName: user.lastName,
-            email: user.email,
-            token
-        })
+        res.status(201).json(serializeUser(user, token))
   } catch (error) {
     console.log("Signup Error:", error);
     res.status(500).json({ message: error.message });
@@ -53,13 +57,7 @@ router.post('/signin', async (req, res) => {
 
     const token = generateToken(user._id);
 
-    res.status(200).json({
-      id: user._id,
-      firstName: user.firstName,
-      lastName: user.lastName,
-      email: user.email,
-      token
-    });
+    res.status(200).json(serializeUser(user, token));
 
   } catch (error) {
     res.status(500).json({ message: 'Server error' });
@@ -73,7 +71,27 @@ const generateToken = (id) => {
 }   
 
 router.get("/me", protect, async (req, res) => {
-  res.status(200).json(req.user);
+  res.status(200).json(serializeUser(req.user));
+});
+
+router.put("/me", protect, async (req, res) => {
+  try {
+    const user = await User.findById(req.user._id);
+
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+
+    user.firstName = req.body.firstName ?? user.firstName;
+    user.lastName = req.body.lastName ?? user.lastName;
+    user.phone = req.body.phone ?? user.phone;
+    user.avatar = req.body.avatar ?? user.avatar;
+
+    const updatedUser = await user.save();
+    res.status(200).json(serializeUser(updatedUser));
+  } catch (error) {
+    res.status(500).json({ message: "Unable to update profile" });
+  }
 });
 
 export default router;

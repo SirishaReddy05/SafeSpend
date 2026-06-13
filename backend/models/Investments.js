@@ -19,7 +19,7 @@ const investmentSchema = new mongoose.Schema({
     default: Date.now,
     required: true,
   },
-  DateOfMaturity: {
+  maturityDate: {
     type: Date,
     required: true,
   },

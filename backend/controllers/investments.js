@@ -1,10 +1,10 @@
-import investments from '../models/Investments.js';
+import Investment from '../models/Investments.js';
 
 const addInvestment = async (req, res) => {
     try {
         const { userId, name, amount, date, maturityDate } = req.body;
-        const newInvestment = new investments({
-            userId,
+        const newInvestment = new Investment({
+            user: userId,
             name,
             amount,
             date,
@@ -21,7 +21,7 @@ const addInvestment = async (req, res) => {
 const getInvestments = async (req, res) => {
     try {
         const { userId } = req.params;
-        const investmentsList = await investments.find({ userId });
+        const investmentsList = await Investment.find({ user: userId });
         res.status(200).json(investmentsList);
     }
     catch (error) {
@@ -32,7 +32,7 @@ const getInvestments = async (req, res) => {
 const deleteInvestment = async (req, res) => {
     try {
         const { id } = req.params;
-        await investments.findByIdAndDelete(id);
+        await Investment.findByIdAndDelete(id);
         res.status(200).json({ message: "Investment deleted successfully" });
     }
     catch (error) {
@@ -44,7 +44,7 @@ const updateInvestment = async (req, res) => {
     try {
         const { id } = req.params;
         const { amount, maturityDate } = req.body;
-        const updatedInvestment = await investments.findByIdAndUpdate(
+        const updatedInvestment = await Investment.findByIdAndUpdate(
             id,
             { amount, maturityDate },
             { new: true }

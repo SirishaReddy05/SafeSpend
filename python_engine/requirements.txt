@@ -1,5 +1,9 @@
 # UI
 streamlit
+fastapi
+uvicorn
+python-multipart
+requests
 
 # LLM / Agent framework
 langchain
@@ -24,3 +28,5 @@ python-dotenv
 
 # PDF handling (Python side only)
 pdf2image
+pypdf
+PyMuPDF

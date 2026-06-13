@@ -2,7 +2,7 @@ import Debt from '../models/Debt.js';
 
 const addDebt = async (req, res) => {
     try {
-        const { userId, name, description, amount, startDate, endDate, walletOfPayment, typeOfDebt, interestRate, dueDate } = req.body;
+        const { userId, name, description, amount, startDate, endDate, walletOfPayment, typeOfDebt, interestRate, dueDate, remainingAmount } = req.body;
         const newDebt = new Debt({
             user: userId,
             name,
@@ -13,6 +13,7 @@ const addDebt = async (req, res) => {
             walletOfPayment,
             typeOfDebt,
             interestRate,
+            remainingAmount,
             dueDate,
         });
         const savedDebt = await newDebt.save();
@@ -48,10 +49,10 @@ const deleteDebt = async (req, res) => {
 const updateDebt = async (req, res) => {
     try {
         const { debtId } = req.params;
-        const { endDate, walletOfPayment } = req.body;
+        const { endDate, walletOfPayment, remainingAmount, dueDate, interestRate } = req.body;
         const updatedDebt = await Debt.findByIdAndUpdate(
             debtId,
-            { endDate, walletOfPayment },
+            { endDate, walletOfPayment, remainingAmount, dueDate, interestRate },
             { new: true }
         );
         res.status(200).json(updatedDebt);

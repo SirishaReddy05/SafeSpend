@@ -1,0 +1,2585 @@
+भारतीय ǐरज़वर् बɇक 
+----------------------------------- RESERVE BANK OF INDIA ------------------------------------- 
+www.rbi.org.in 
+ͪवत् तीय समावेशन और ͪवकास ͪवभाग, केन्द्रȣय कायार्लय,10 वी मंिजल, कɅ द्रȣय कायार्लय भवन, शहȣद भगतͧसंह मागर्,पोस्ट बॉक्स सं. 10014,मुंबई -400001 
+Financial Inclusion & Development Dept.,Central Office,10th Floor, Central Office Building,Shahid Bhagat Singh Marg,P.B.No.10014,Mumbai-1 
+टेलȣ Tel:022-22601000 फैक्सः 91-22-22621011/22610943/22610948 ई -मेल : cgmincfidd@rbi.org.in 
+Ǒहंदȣ आसान है,इसका प्रयोग बढ़ाइए। 
+ “चेतावनी : 
+-
+मेल
+ 
+ǐरज़वर् बɇक द्वारा
+ 
+ 
+डाक, एसएमएस या फोन कॉल के जǐरए ͩकसी कȧ भी व् यिक्तगत जानकारȣ जैसे बɇक के खाते का ब् यौरा, पासवडर् आǑद नहȣं मांगी जाती 
+है। यह धन रखने या देने का प्रस् ताव भी नहȣं करता है। ऐसे प्रस् तावɉ का ͩकसी भी तरȣके से जवाब मत दȣिजए।" 
+Caution: RBI never sends mails, SMSs or makes calls asking for personal information like bank account details, passwords, etc. It never 
+keeps or offers funds to anyone. Please do not respond in any manner to such offers. 
+ 
+RBI/2017-18/14 
+FIDD.CO.SFB. No.9/04.09.001/2017-18 July 6, 2017 
+ 
+The Chairman/ Managing Director/ 
+Chief Executive Officer 
+Small Finance Banks 
+Dear Sir/Madam, 
+Small Finance Banks – Compendium of Guidelines on Financial Inclusion and 
+Development 
+In view of the announcement made in the budget 2014-15 regarding creation of a framework 
+for licensing small banks, and to give a thrust to the supply of credit to micro and small 
+enterprises, agriculture and banking services in unbanked and under-banked regions in the 
+country, Reserve Bank decided to licence new “Small Finance Banks (SFBs)” in the private 
+sector. Following a due process, in-principle approvals were given to ten applicants to set up 
+SFBs vide press release dated September 16, 2015. 
+ 
+2. Subsequently, Operating Guidelines for Small Finance Banks were issued vide Circular 
+DBR.NBD.No.26/16.13.218/2016-17 dated October 6, 2016, which prescribed, inter alia, 
+broad indicative guidelines in areas related to Financial Inclusion and Development. In 
+continuation with the same, comprehensive set of guidelines in the form of a compendium is 
+Annexed. The guidelines are operational with effect from the date of this compendium. 
+ 
+Yours faithfully, 
+ 
+(Uma Shankar) 
+Chief General Manager-In-Charge 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Compendium of Guidelines for Small Finance Banks – Financial Inclusion 
+and Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESERVE BANK OF INDIA 
+FINANCIAL INCLUSION AND DEVELOPMENT DEPARTMENT 
+ 
+
+ 
+INDEX 
+Chapter 
+Particulars 
+Page No. 
+1. 
+Preliminary 
+12. 
+Priority Sector Lending 
+23. 
+Lending to Micro, Small and Medium Enterprises 
+18 
+4. 
+Financial Literacy 
+28 
+5. 
+Financial Inclusion 
+30 
+6. 
+Farm Sector 
+34 
+7. 
+Lead Bank Scheme 
+58 
+8. 
+Government Sponsored Schemes 
+59 
+ 
+
+ 
+1 
+ 
+CHAPTER I: PRELIMINARY 
+Objective of a small finance bank 
+The objective of setting up of small finance banks is to further financial inclusion by, 
+a) provision of savings vehicle and primarily to unserved and underserved sections of 
+the population and, 
+b) supply of credit to small business units, small & marginal farmers; micro and small 
+industries and other unorganised sector entities through high technology & low cost 
+operations 
+Scope of activities 
+• 
+The scope of activities of a small finance bank would primarily be to undertake basic 
+banking activities of acceptance of deposits and lending to unserved and 
+underserved sections including small business units, small and marginal farmers, 
+micro and small industries and unorganized sector entities. 
+• 
+SFBs are required to open at least 25% of its branches in unbanked rural centres. 
+• 
+Further, these banks are required to extend 75% of its ANBC to priority sector. 
+Guidelines for SFBs on Financial Inclusion and Development 
+• 
+Considering the differentiated nature of business and financial focus of the SFBs 
+and taking into account the important role that SFBs can play in the supply of credit 
+to micro and small enterprises, agriculture and banking services the need for a 
+specific compendium of guidelines for SFBs on areas relating to Financial Inclusion 
+and Development have been prepared. 
+• 
+The provisions of these instructions shall apply to every Small Finance Bank 
+licensed to operate in India by the Reserve Bank of India. 
+ 
+ 
+ 
+
+ 
+2 
+ 
+CHAPTER II: PRIORITY SECTOR LENDING – TARGETS AND 
+CLASSIFICATION 
+SECTION – I Categories Under Priority Sector 
+1. The categories under priority sector are as follows: 
+i. 
+Agriculture 
+ii. 
+Micro, Small and Medium Enterprises (MSMEs) 
+iii. 
+Export Credit 
+iv. 
+Education 
+v. 
+Housing 
+vi. 
+Social Infrastructure 
+vii. Renewable Energy 
+viii. Others 
+The details of eligible activities under the above categories are specified in Section III. 
+SECTION – II. Targets /Sub-Targets For Priority Sector 
+Small Finance Banks will have a target of 75 per cent for priority sector lending of their 
+Adjusted Net Bank Credit (ANBC). While 40 per cent of ANBC should be allocated to 
+different sub-sectors under PSL as mentioned below, the balance 35 per cent can be 
+allocated to any one or more sub-sectors under the PSL, where the banks have competitive 
+advantage. 
+Categories 
+Target 
+Total Priority Sector 
+75 percent of ANBC 
+Agriculture 
+18 percent of ANBC 
+Small and Marginal Farmers 
+Within the 18 percent target for 
+Agriculture, a target of 8 percent of 
+ANBC is prescribed for Small and 
+Marginal Farmers. 
+Micro Enterprises 
+7.5 percent of ANBC 
+Advances to Weaker Sections 
+10 percent of ANBC 
+The computation of priority sector targets/sub-targets achievement will be based on the total 
+ANBC as on the corresponding date of the preceding year. 
+
+ 
+3 
+ 
+For the purpose of priority sector lending, ANBC denotes the outstanding Bank Credit in 
+India [As prescribed in item No.VI of Form ‘A’ under Section 42 (2) of the RBI Act, 1934] 
+minus bills rediscounted with RBI and other approved Financial Institutions plus permitted 
+non-SLR bonds/debentures under Held to Maturity (HTM) category plus other investments 
+eligible to be treated as part of priority sector lending (e.g. investments in securitized assets). 
+The outstanding deposits under RIDF and other funds with NABARD, NHB, SIDBI and 
+MUDRA Ltd. in lieu of non-achievement of priority sector lending targets/sub-targets will form 
+part of ANBC. Advances extended in India against the incremental FCNR (B)/NRE deposits, 
+qualifying for exemption from CRR/SLR requirements, as per the Reserve Bank’s circulars 
+DBOD.No.Ret.BC.36/12.01.001/2013-14 
+dated 
+August 
+14, 
+2013 
+read 
+with 
+DBOD.No.Ret.BC.93/12.01.001/2013-14 dated January 31, 2014 and DBOD mailbox 
+clarification issued on February 6, 2014 will be excluded from the ANBC for computation of 
+priority sector lending targets, till their repayment. The eligible amount for exemption on 
+account of issuance of long-term bonds for infrastructure and affordable housing as per 
+Reserve Bank’s circular DBOD.BP.BC.No.25/08.12.014/2014-15 dated July 15, 2014 will 
+also be excluded from the ANBC for computation of priority sector lending targets. 
+Computation of Adjusted Net Bank Credit: 
+Bank Credit in India [As prescribed in item No.VI of Form ‘A’ under Section 42 (2) of 
+the RBI Act, 1934] 
+I 
+Bills Rediscounted with RBI and other approved Financial Institutions 
+II 
+Net Bank Credit (NBC)* 
+III (I-II) 
+Bonds / debentures in non-SLR categories under HTM category + other investments 
+eligible to be treated as priority sector + Outstanding Deposits under RIDF and other 
+eligible funds with NABARD, NHB, SIDBI and MUDRA Ltd. on account of priority 
+sector shortfall + outstanding PSLCs 
+IV 
+Eligible amount for exemptions on issuance of long-term bonds for infrastructure and 
+affordable housing as per circular DBOD.BP.BC.No.25/05.12.014/2014-15 dated 
+July 15, 2014 
+V 
+Eligible advances extended in India against the incremental FCNR (B) / NRE 
+deposits, qualifying for exemption from CRR/SLR requirements 
+VI 
+ANBC 
+III+IV-V-VI 
+*For the purpose of priority sector computation only, Banks should not deduct / net any 
+amount like provisions, accrued interest, etc. from NBC. 
+
+ 
+4 
+ 
+Banks may be further guided by Para 6.5 (ii to vii) of the Operating Guidelines for Small 
+Finance 
+Banks 
+issued 
+by 
+Department 
+of 
+Banking 
+Regulation 
+(RBI/2016-17/81 
+DBR.NBD.No.26/16.13.218/2016-17 dated October 06, 2016) for computation of ANBC. 
+In case banks are subtracting prudential write off at Corporate / Head Office level while 
+reporting Bank Credit as above, it must be ensured that bank credit to priority sector and all 
+other sub-sectors so written off should also be subtracted category wise from priority sector 
+and sub-sector achievement. 
+All types of loans, investments or any other items which are treated as eligible for 
+classification under priority sector target / sub-target achievement should also form part of 
+Adjusted Net Bank Credit. 
+SECTION – III. Description Of Eligible Categories Under Priority Sector 
+ 
+1. Agriculture 
+The lending to agriculture sector will be categorized as (i) Farm Credit (which will include 
+short-term crop loans and medium/long-term credit to farmers) (ii) Agriculture Infrastructure 
+and (iii) Ancillary Activities. A list of eligible activities under the three sub-categories is 
+indicated below: 
+ 
+1.1 Farm credit 
+ 
+A. Loans to individual farmers [including Self Help Groups 
+(SHGs) or Joint Liability Groups (JLGs), i.e. groups of individual 
+farmers, provided banks maintain disaggregated data of such 
+loans], 
+directly 
+engaged 
+in 
+Agriculture 
+and 
+Allied 
+Activities, viz., dairy, fishery, animal husbandry, poultry, bee-
+keeping and sericulture. This will include: 
+(i) Crop loans to farmers which will include traditional/non-
+traditional plantations and horticulture, and, loans for allied 
+activities. 
+(ii) Medium and long-term loans to farmers for agriculture and 
+allied activities (e.g. purchase of agricultural implements and 
+machinery, loans for irrigation and other developmental activities 
+undertaken in the farm, and developmental loans for allied 
+activities.) 
+(iii) Loans to farmers for pre and post-harvest activities, viz., 
+
+ 
+5 
+ 
+spraying, weeding, harvesting, sorting, grading and transporting 
+of their own farm produce. 
+(iv) 
+Loans 
+to 
+farmers 
+up 
+to 
+₹50 
+lakh 
+against 
+pledge/hypothecation 
+of 
+agricultural 
+produce 
+(including 
+warehouse receipts) for a period not exceeding 12 months. 
+(v) Loans to distressed farmers indebted to non-institutional 
+lenders. 
+(vi) Loans to farmers under Kisan Credit Card Scheme. 
+(vii) Loans to small and marginal farmers for purchase of land for 
+agricultural purposes. 
+B. 
+Loans 
+to 
+corporate 
+farmers, 
+farmers' 
+producer 
+organizations/companies of individual farmers, partnership firms 
+and co-operatives of farmers directly engaged in Agriculture and 
+Allied Activities, viz., dairy, fishery, animal husbandry, poultry, 
+bee-keeping and sericulture up to an aggregate limit of ₹2 crore 
+per borrower. This will include: 
+(i) Crop loans to farmers which will include traditional/non-
+traditional plantations and horticulture, and, loans for allied 
+activities. 
+(ii) Medium and long-term loans to farmers for agriculture and 
+allied activities (e.g. purchase of agricultural implements and 
+machinery, loans for irrigation and other developmental activities 
+undertaken in the farm, and developmental loans for allied 
+activities.) 
+(iii) Loans to farmers for pre and post-harvest activities, viz., 
+spraying, weeding, harvesting, sorting, grading and transporting 
+of their own farm produce. 
+(iv) Loans up to ₹50 lakh against pledge/hypothecation of 
+agricultural produce (including warehouse receipts) for a period 
+not exceeding 12 months. 
+1.2. 
+Agriculture 
+infrastructure 
+i) Loans for construction of storage facilities (warehouses, 
+market yards, godowns and silos) including cold storage units/ 
+cold 
+storage 
+chains 
+designed 
+to 
+store 
+agriculture 
+produce/products, irrespective of their location. 
+ii) Soil conservation and watershed development. 
+
+ 
+6 
+ 
+iii) Plant tissue culture and agri-biotechnology, seed production, 
+production of bio-pesticides, bio-fertilizer, and vermi composting. 
+For the above loans, an aggregate sanctioned limit of ₹100 crore 
+per borrower from the banking system, will apply. 
+1.3.Ancillary 
+activities 
+(i) Loans up to ₹5 crore to co-operative societies of farmers for 
+disposing of the produce of members. 
+ (ii) Loans for setting up of Agriclinics and Agribusiness Centres. 
+(iii) Loans for Food and Agro-processing up to an aggregate 
+sanctioned limit of ₹100 crore per borrower from the banking 
+system. 
+(iv) Loans to Custom Service Units managed by individuals, 
+institutions or organizations who maintain a fleet of tractors, 
+bulldozers, well-boring equipment, threshers, combines, etc., 
+and undertake farm work for farmers on contract basis. 
+(v) Outstanding deposits under RIDF and other eligible funds 
+with NABARD on account of priority sector shortfall. 
+ 
+For the purpose of computation of 8 percent target, Small and Marginal Farmers will include 
+following:- 
+- 
+Farmers with landholding of up to 1 hectare are considered as Marginal Farmers. 
+Farmers with a landholding of more than 1 hectares and up to 2 hectares are 
+considered as Small Farmers. 
+- 
+Landless agricultural laborers, tenant farmers, oral lessees and share-croppers, 
+whose share of landholding is within the limits prescribed for small and marginal 
+farmers. 
+- 
+Loans to Self Help Groups (SHGs) or Joint Liability Groups (JLGs), i.e. groups of 
+individual Small and Marginal farmers directly engaged in Agriculture and Allied 
+Activities provided banks maintain disaggregated data of such loans. 
+- 
+Loans to farmers’ producer companies of individual farmers, and co-operatives of 
+farmers directly engaged in Agriculture and Allied Activities, where the membership 
+of Small and Marginal Farmers is not less than 75 per cent by number and whose 
+land-holding share is also not less than 75 per cent of the total land-holding. 
+ 
+ 
+ 
+
+ 
+72. Micro, Small and Medium Enterprises (MSMEs) 
+2.1. The limits for investment in plant and machinery/equipment for manufacturing / service 
+enterprise, as notified by Ministry of Micro, Small and Medium Enterprises, vide S.O.1642(E) 
+dated September 9, 2006 are as under:- 
+Manufacturing Sector 
+Enterprises 
+Investment in plant and machinery 
+Micro Enterprises 
+Does not exceed twenty five lakh rupees 
+Small Enterprises 
+More than twenty five lakh rupees but does 
+not exceed five crore rupees 
+Medium Enterprises 
+More than five crore rupees but does not 
+exceed ten crore rupees 
+Service Sector 
+Enterprises 
+Investment in equipment 
+Micro Enterprises 
+Does not exceed ten lakh rupees 
+Small Enterprises 
+More than ten lakh rupees but does not 
+exceed two crore rupees 
+Medium Enterprises 
+More than two crore rupees but does not 
+exceed five crore rupees 
+ 
+Bank loans to Micro, Small and Medium Enterprises, for both manufacturing and service 
+sectors are eligible to be classified under the priority sector as per the following norms: 
+2.2. Manufacturing Enterprises 
+The Micro, Small and Medium Enterprises engaged in the manufacture or production of 
+goods to any industry specified in the first schedule to the Industries (Development and 
+Regulation) Act, 1951 and as notified by the Government from time to time. The 
+Manufacturing Enterprises are defined in terms of investment in plant and machinery. 
+2.3. Service Enterprises 
+Bank loans up to 5 crore per unit to Micro and Small Enterprises and 10 crore to Medium 
+Enterprises engaged in providing or rendering of services and defined in terms of investment 
+in equipment under MSMED Act, 2006. 
+2.4. Factoring Transactions 
+Factoring transactions on ‘with recourse’ basis by banks which carry out the business of 
+factoring departmentally, wherever the ‘assignor’ is a Micro, Small or Medium Enterprise, 
+
+ 
+8 
+ 
+subject to the corresponding limits for investment in plant and machinery/ equipment and 
+other extant guidelines for priority sector classification. Such outstanding factoring portfolios 
+may be classified by banks under MSME category on the reporting dates. 
+ 
+In terms of paragraph 9 of the Department of Banking Regulation Circular DBR. No. 
+FSD.BC.32/24.01.007/2015-16 dated July 30, 2015 on ‘Provision of Factoring Services by 
+Banks- Review’, inter-alia, the borrower’s bank shall obtain from the borrower, periodical 
+certificates regarding factored receivables to avoid double financing/ counting. Further, the 
+‘factors’ must intimate the limits sanctioned to the borrower and details of debts factored to 
+the banks concerned, taking responsibility to avoid double financing. 
+ 
+Factoring transactions taking place through the Trade Receivables Discounting System 
+(TReDS) shall also be eligible for classification under priority sector. 
+ 
+2.5. Khadi and Village Industries Sector (KVI) 
+All loans to units in the KVI sector will be eligible for classification under the sub-target of 7.5 
+per cent prescribed for Micro Enterprise under priority sector. 
+2.6. Other Finance to MSMEs 
+I. 
+Loans to entities involved in assisting the decentralized sector in the supply of inputs 
+to and marketing of outputs of artisans, village and cottage industries. 
+II. 
+Loans to co-operatives of producers in the decentralized sector viz. artisans, village 
+and cottage industries. 
+III. 
+Credit outstanding under General Credit Cards (including Artisan Credit Card, Laghu 
+Udyami Card, Swarojgar Credit Card, and Weaver’s Card etc. in existence and 
+catering to the non-farm entrepreneurial credit needs of individuals). 
+IV. 
+Overdrafts extended by banks after April 8, 2015 upto ₹ 5000/- under Pradhan Mantri 
+Jan Dhan Yojana (PMJDY) accounts provided the borrower’s household annual 
+income does not exceed ₹ 100,000/- for rural areas and ₹ 160,000/- for non-rural 
+areas. These overdrafts will qualify as achievement of the target for lending to Micro 
+Enterprises. 
+V. 
+Outstanding deposits with SIDBI and MUDRA Ltd. on account of priority sector 
+shortfall. 
+ 
+
+ 
+92.7. To ensure that MSMEs do not remain small and medium units merely to remain eligible 
+for priority sector status, the MSME units will continue to enjoy the priority sector lending 
+status up to three years after they grow out of the MSME category concerned. 
+ 
+3. Export Credit 
+During the first financial year of operation, Export Credit subject to a limit of up to ₹ 25 crore 
+per borrower to units having turnover of up to ₹ 100 crore will be classified as priority sector. 
+However, for subsequent financial years only incremental export credit over corresponding 
+date of the preceding year, up to 2 percent of ANBC shall be treated as priority sector. 
+ 
+Export credit includes pre-shipment and post-shipment export credit (excluding off-balance 
+sheet items) as defined in Master Circular on Rupee/Foreign Export Credit and Customer 
+Service to Exporters issued by our Department of Banking Regulation. 
+ 
+4. Education 
+Loans to individuals for educational purposes including vocational courses upto ₹10 lakh 
+irrespective of the sanctioned amount will be considered as eligible for priority sector. 
+5. Housing 
+i. 
+Loans to individuals up to ₹28 lakh in metropolitan centres (with population of ten 
+lakh and above) and loans up to ₹ 20 lakh in other centres for purchase / 
+construction of a dwelling unit per family provided the overall cost of the dwelling unit 
+in the metropolitan centre and at other centres should not exceed ₹ 35 lakh and ₹ 25 
+lakh, respectively. The housing loans to banks’ own employees will be excluded. As 
+housing loans which are backed by long term bonds are exempted from ANBC, 
+banks should either include such housing loans to individuals up to ₹ 28 lakh in 
+metropolitan centres and ₹ 20 lakh in other centres under priority sector or take 
+benefit of exemption from ANBC, but not both. 
+ii. 
+Loans for repairs to damaged dwelling units of families up to ₹ 5 lakh in metropolitan 
+centres and up to ₹ 2 lakh in other centres. 
+iii. 
+Bank loans to any governmental agency for construction of dwelling units or for slum 
+clearance and rehabilitation of slum dwellers subject to a ceiling of ₹10 lakh per 
+dwelling unit. 
+iv. 
+The loans sanctioned by banks for housing projects exclusively for the purpose of 
+construction of houses for economically weaker sections and low income groups, the 
+total cost of which does not exceed ₹10 lakh per dwelling unit. For the purpose of 
+
+ 
+10 
+ 
+identifying the economically weaker sections and low income groups, the family 
+income limit of ₹2 lakh per annum, irrespective of the location, is prescribed. 
+v. 
+Outstanding deposits with NHB on account of priority sector shortfall. 
+ 
+6. Social Infrastructure 
+Bank loans up to a limit of 5 crore per borrower for building social infrastructure for activities 
+namely schools, health care facilities, drinking water facilities, sanitation facilities, 
+construction/refurbishment of household toilets and household water quality improvements in 
+Tier II to Tier VI centres. 
+ 
+7. Renewable Energy 
+Bank loans up to a limit of 15 crore to borrowers for purposes like solar based power 
+generators, biomass based power generators, wind mills, micro-hydel plants and for non-
+conventional energy based public utilities viz. street lighting systems, and remote village 
+electrification. For individual households, the loan limit will be 10 lakh per borrower. 
+ 
+8. Others 
+8.1. Loans not exceeding ₹50,000/- per borrower provided directly by banks to individuals 
+and their SHG/JLG, provided the individual borrower’s household annual income in rural 
+areas does not exceed ₹100,000/- and for non-rural areas it does not exceed ₹1,60,000/-. 
+ 
+8.2. Loans to distressed persons [other than farmers already included under III (1.1) A (v)] 
+not exceeding ₹100,000/- per borrower to prepay their debt to non-institutional lenders. 
+ 
+8.3 Loans sanctioned to State Sponsored Organizations for Scheduled Castes/ Scheduled 
+Tribes for the specific purpose of purchase and supply of inputs and/or the marketing of the 
+outputs of the beneficiaries of these organizations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+11 
+ 
+SECTION – IV. Weaker Sections 
+ 
+9. Priority sector loans to the following borrowers will be considered under Weaker Sections 
+category:- 
+ 
+No. 
+Category 
+(i) 
+Small and Marginal Farmers 
+(ii) 
+Artisans, village and cottage industries where individual credit limits do not exceed ₹1 
+lakh 
+(iii) 
+Beneficiaries under Government Sponsored Schemes such as National Rural 
+Livelihood Mission (NRLM), National Urban Livelihood Mission (NULM) and Self 
+Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) 
+(iv) 
+Scheduled Castes and Scheduled Tribes 
+(v) 
+Beneficiaries of Differential Rate of Interest (DRI) scheme 
+(vi) 
+Self Help Groups 
+(vii) 
+Distressed farmers indebted to non-institutional lenders 
+(viii) Distressed persons other than farmers, with loan amount not exceeding ₹1 lakh per 
+borrower to prepay their debt to non-institutional lenders 
+(ix) 
+Individual women beneficiaries up to ₹1 lakh per borrower 
+(x) 
+Persons with disabilities 
+(xi) 
+Overdrafts upto₹5,000/- under Pradhan Mantri Jan-Dhan Yojana (PMJDY) accounts, 
+provided the borrowers’ household annual income does not exceed ₹100,000/- for 
+rural areas and ₹1,60,000/- for non-rural areas 
+(xii) 
+Minority communities as may be notified by Government of India from time to time 
+In States, where one of the minority communities notified is, in fact, in majority, item (xii) will 
+cover only the other notified minorities. These States/ Union Territories are Jammu & 
+Kashmir, Punjab, Meghalaya, Mizoram, Nagaland and Lakshadweep. 
+SECTION V. Miscellaneous 
+10. Investments by banks in securitised assets 
+(i) Investments by banks in securitised assets, representing loans to various categories of 
+priority sector, except 'others' category, subject to terms and conditions specified in Para 1.9 
+of the Operating Guidelines for Small Finance Banks issued by Department of Banking 
+
+ 
+12 
+ 
+Regulation (RBI/2016-17/81 DBR.NBD.No.26/16.13.218/2016-17 dated October 06, 2016) 
+are eligible for classification under respective categories of priority sector depending on the 
+underlying assets provided: 
+• 
+The securitized assets are originated by banks and financial institutions and are 
+eligible to be classified as priority sector advances prior to securitization and fulfil the 
+Reserve Bank of India guidelines on securitization. 
+• 
+The all-inclusive interest charged to the ultimate borrower by the originating entity 
+should not exceed the MCLR of the investing small finance bank plus 8 percent per 
+annum. 
+• 
+The investments in securitized assets originated by MFIs, which comply with the 
+guidelines in Paragraph 19 of the Master Direction-Priority Sector Lending-
+RBI/FIDD/2016-17/33 FIDD.CO.Plan.1/04.09.01/2016-17 dated July 07, 2016 are 
+exempted from this interest cap as there are separate caps on margin and interest 
+rate. 
+(ii) Investments made by banks in securitised assets originated by NBFCs, where the 
+underlying assets are loans against gold jewellery, are not eligible for priority sector status. 
+11. Transfer of Assets through Direct Assignment /Outright purchases 
+(i) Assignments/Outright purchases of pool of assets by banks representing loans under 
+various categories of priority sector, except the 'others' category, subject to terms and 
+conditions specified in Para 1.9 of the Operating Guidelines for Small Finance Banks issued 
+by Department of Banking Regulation (RBI/2016-17/81 DBR.NBD.No.26/16.13.218/2016-17 
+dated October 06, 2016) will be eligible for classification under respective categories of 
+priority sector provided: 
+• 
+The assets are originated by banks and financial institutions which are eligible to be 
+classified as priority sector advances prior to the purchase and fulfil the Reserve 
+Bank of India guidelines on outright purchase/assignment. 
+• 
+The eligible loan assets so purchased should not be disposed of other than by way of 
+repayment. 
+• 
+The all-inclusive interest charged to the ultimate borrower by the originating entity 
+should not exceed the MCLR of the purchasing small finance bank plus 8 percent per 
+annum. 
+
+ 
+13 
+ 
+The Assignments/Outright purchases of eligible priority sector loans from MFIs, which 
+comply with the guidelines in Paragraph 19 of the Master Direction-Priority Sector Lending-
+RBI/FIDD/2016-17/33 FIDD.CO.Plan.1/04.09.01/2016-17 dated July 07, 2016 are exempted 
+from this interest rate cap as there are separate caps on margin and interest rate. 
+(ii) When the banks undertake outright purchase of loan assets from banks/ financial 
+institutions to be classified under priority sector, they must report the nominal amount 
+actually disbursed to end priority sector borrowers and not the premium embedded amount 
+paid to the sellers. 
+(iii) Purchase/ assignment/investment transactions undertaken by banks with NBFCs, where 
+the underlying assets are loans against gold jewellery, are not eligible for priority sector 
+status. 
+12. Inter Bank Participation Certificates 
+Inter Bank Participation Certificates (IBPCs) bought by banks, on a risk sharing basis, are 
+eligible for classification under respective categories of priority sector, provided the 
+underlying assets are eligible to be categorized under the respective categories of priority 
+sector and the banks fulfil the Reserve Bank of India guidelines on IBPCs and terms & 
+conditions specified in Para 1.9 of the Operating Guidelines for Small Finance Banks issued 
+by Department of Banking Regulation (RBI/2016-17/81 DBR.NBD.No.26/16.13.218/2016-17 
+dated October 06, 2016) on Credit risk transfer and portfolio sales/purchases. 
+With regard to the underlying assets of the IBPC transactions being eligible for 
+categorization under ‘Export Credit’ as per Para 3, the IBPC bought by banks, on a risk 
+sharing basis, may be classified from purchasing bank’s perspective for priority sector 
+categorization. However, in such a scenario, the issuing bank shall certify that the underlying 
+asset is ‘Export Credit’, in addition to the due diligence required to be undertaken by the 
+issuing and the purchasing bank as per the guidelines in this regard. 
+13. Priority Sector Lending Certificates 
+The outstanding priority sector lending certificates bought by banks will be eligible for 
+classification under respective categories of priority sector provided the assets are originated 
+by banks, are eligible to be classified as priority sector advances and fulfil the Reserve Bank 
+of India guidelines on Priority Sector Lending Certificates issued vide Circular 
+
+ 
+14 
+ 
+FIDD.CO.Plan.BC.23/04.09.001/2015-16 dated April 7, 2016 and terms & conditions 
+specified in Para 1.9 of the Operating Guidelines for Small Finance Banks issued by 
+Department of Banking Regulation (RBI/2016-17/81 DBR.NBD.No.26/16.13.218/2016-17 
+dated October 06, 2016) on Credit risk transfer and portfolio sales/purchases. 
+14. Monitoring and Non-achievement of Priority Sector targets: 
+To ensure continuous flow of credit to priority sector, the compliance of banks will be 
+monitored on quarterly basis. The data on priority sector advances has to be furnished by 
+banks at quarterly and annual intervals as per reporting format. 
+The mechanism of RIDF, in which Banks having any shortfall in lending to priority sector / 
+sub-sectors, are allocated amounts for contribution to the RIDF established with NABARD 
+and other funds with NABARD / NHB / SIDBI / MUDRA Ltd., shall be made applicable 
+commencing from the year 2019-20 i.e. banks having shortfall in their PSL targets / sub-
+targets as on March 31, 2019, will require to contribute to RIDF and other funds in the 
+following year, as directed by Reserve Bank. 
+The achievement will be arrived at the end of financial year based on the average of priority 
+sector 
+target 
+/sub-target 
+achievement 
+as 
+at 
+the 
+end 
+of 
+each 
+quarter. 
+(Illustrative example give in Annexure – I) 
+The misclassifications identified during the course of supervisory inspection by RBI would be 
+adjusted / reduced from the achievement of that year, to which the amount of 
+declassification / misclassification pertains, for arriving at the actual achievements of targets 
+and sub-targets. 
+Further, non-achievement of priority sector targets and sub-targets will be taken into account 
+while granting regulatory clearances / approvals for various purposes. 
+ 
+ 
+ 
+ 
+
+ 
+15 
+ 
+SECTION – VII. Common Guidelines For Priority Sector Loans 
+ 
+SFBs should comply with the following common guidelines for all categories of advances 
+under the priority sector. 
+ 
+i. Rate of interest 
+The rates on interest on bank loans will be as per directives issued by our Department of 
+Banking Regulation from time to time. 
+ 
+ii. Service charges 
+No loan related and adhoc service charges/inspection charges should be levied on priority 
+sector loans up to 25,000. In case of eligible priority sector loans to SHGs/JLGs, this limit 
+will be applicable per member and not to the group as a whole. 
+iii. Receipt, Sanction/Rejection/Disbursement Register 
+A register/ electronic record should be maintained by the bank, wherein the date of receipt, 
+sanction/rejection/disbursement with reasons thereof, etc., should be recorded. The 
+register/electronic record should be made available to all inspecting agencies. 
+ 
+iv. Issue of Acknowledgement of Loan Applications 
+Banks should provide acknowledgement for loan applications received under priority sector 
+loans. Bank Boards should prescribe a time limit within which the bank communicates its 
+decision in writing to the applicants. 
+v. Definitions/Clarifications: 
+a) Contingent liabilities/off-balance sheet items do not form part of priority sector target 
+achievement. 
+ 
+b) The term “all-inclusive interest” includes interest (effective annual interest), processing 
+fees and service charges. 
+ 
+c) Banks should ensure that loans extended under priority sector are for approved 
+purposes and the end use is continuously monitored. The banks should put in place 
+proper internal controls and systems in this regard. 
+vi. Amendments 
+These guidelines are subject to any further instructions that may be issued by the RBI from 
+time to time. 
+
+ 
+16 
+ 
+Annexure – I 
+Priority Sector Target Achievement – Calculation of shortfall / excess 
+Illustrative example: 
+Tables No.1 and 2 below illustrate the method followed for computation of shortfall / excess 
+in priority sector target achievement at the end of financial year. 
+ Amount in ₹ thousands 
+(Table – 1) 
+Quarter 
+ended 
+PSL targets 
+Priority Sector 
+Amount Outstanding 
+Shortfall / Excess 
+June 
+3296156032 
+3169380800 
+-126775232 
+September 
+3088265369 
+3119459969 
+31194600 
+December 
+3176948703 
+3192913269 
+15964566 
+March 
+3245609908 
+3213475156 
+-32134752 
+Total 
+12806980012 
+12695229194 
+-111750818 
+Average 
+3201745003 
+3173807299 
+-27937704 
+ 
+Amount in ₹ thousands 
+(Table – 2) 
+Quarter 
+ended 
+PSL targets 
+Priority Sector 
+Amount Outstanding 
+Shortfall / Excess 
+June 
+3296156032 
+3279675252 
+-16480780 
+September 
+3088265369 
+3123780421 
+35515052 
+December 
+3176948703 
+3272257164 
+95308461 
+March 
+3245609908 
+3213153809 
+-32456099 
+Total 
+12806980012 
+12888866646 
+81886634 
+Average 
+3201745003 
+3222216661 
+20471658 
+In the example given in Table -1, the bank has overall shortfall of ₹27937704 thousands at 
+the end of the finance year. In table – 2, the bank has overall excess of ₹20471658 
+thousands at the end of the financial year. 
+The method will be followed for calculating the achievement of quarterly and yearly priority 
+sector sub-targets. 
+
+ 
+17 
+ 
+Note: The computation of priority sector targets / sub-targets achievement will be based on 
+the ANBC as at the corresponding date of the preceding year. 
+ 
+ 
+
+ 
+18 
+ 
+CHAPTER III: LENDING TO MICRO, SMALL AND MEDIUM 
+ENTERPRISES 
+Definitions/ Clarifications 
+ 
+In these guidelines, unless the context otherwise requires, the terms herein shall bear the 
+meanings assigned to them as below: 
+ 
+a) The MSMED Act, 2006 means ‘Micro, Small and Medium Enterprises Development 
+(MSMED) Act, 2006’ as notified by the Government of India on June 16, 2006 and the 
+amendments, if any, carried out therein by the Government of India from time to time. 
+b) ‘Micro, Small and Medium Enterprises’ mean the enterprises as defined in the MSMED 
+Act, 2006 and the amendments, if any, carried out therein by the Government of India 
+from time to time. 
+c) ‘Manufacturing’ and ‘Service’ Enterprises mean the enterprises as defined in the 
+MSMED Act, 2006 or as notified by the Government of India, Ministry of MSME under 
+the MSMED Act, 2006 from time to time. 
+d) ‘Priority Sector’ means the sectors as defined in Chapter – II on Priority Sector Lending 
+– Targets and Classification. 
+e) ‘Adjusted Net Bank Credit (ANBC)’ would mean Adjusted Net Bank Credit (ANBC) as 
+defined in Chapter – II on Priority Sector Lending – Targets and Classification. 
+ 
+ 
+
+ 
+19 
+ 
+SECTION – I. MSMED Act, 2006 
+ 
+1.1 Micro, Small & Medium Enterprises Development (MSMED) Act, 2006 
+ 
+The Government of India has enacted the Micro, Small and Medium Enterprises 
+Development (MSMED) Act, 2006 and notified the same vide Gazette Notification dated 
+June 16, 2006. With the enactment of MSMED Act 2006, the paradigm shift that has taken 
+place is the inclusion of the services sector in the definition of Micro, Small & Medium 
+enterprises, apart from extending the scope to medium enterprises. The MSMED Act, 2006 
+has modified the definition of micro, small and medium enterprises engaged in 
+manufacturing or production and providing or rendering of services. The Reserve Bank has 
+notified the changes to all scheduled commercial banks. Further, the definition, as per the 
+Act, has been adopted for purposes of bank credit vide RBI circular ref. RPCD.PLNFS. 
+BC.No.63/06.02.31/2006-07 dated April 4, 2007. 
+ 
+1.2 Definition of Micro, Small and Medium Enterprises 
+ 
+a) Manufacturing Enterprises i.e. Subject to the definition in MSMED Act, 2006, 
+manufacturing enterprises would mean enterprises engaged in the manufacture or 
+production of goods as specified below: 
+ 
+(i) A micro enterprise is an enterprise where investment in plant and machinery does not 
+exceed Rs.25 lakh; 
+ 
+(ii) A small enterprise is an enterprise where the investment in plant and machinery is 
+more than Rs.25 lakh but does not exceed Rs.5 crore; and 
+ 
+(iii) A medium enterprise is an enterprise where the investment in plant and machinery is 
+more than Rs.5 crore but does not exceed Rs.10 crore. 
+ 
+In case of the above enterprises, investment in plant and machinery is the original cost and 
+the items specified by the Ministry of Small Scale Industries vide its notification No.S.O. 
+1722(E) dated October 5, 2006 (Annexure I). 
+ 
+b) Service Enterprises i.e. Enterprises engaged in providing or rendering of services and 
+whose investment in equipment (original cost excluding furniture, fittings and other items 
+
+ 
+20 
+ 
+not directly related to the service rendered or as may be notified under the MSMED Act, 
+2006) as specified below: 
+ 
+(i) A micro enterprise is an enterprise where the investment in equipment does not 
+exceed Rs.10 lakh; 
+ 
+(ii) A small enterprise is an enterprise where the investment in equipment is more than 
+Rs.10 lakh but does not exceed Rs.2 crore; and 
+ 
+(iii) A medium enterprise is an enterprise where the investment in equipment is more than 
+Rs. 2 crore but does not exceed Rs.5 crore. 
+ 
+1.3 Priority Sector Guidelines for MSME sector 
+ 
+In terms of Chapter – II on Priority Sector Lending – Targets and Classification, loans to 
+Micro, Small and Medium Enterprises, for both Manufacturing and Service sectors are 
+eligible to be classified under the Priority Sector as per the norms prescribed in Para 2 on 
+Micro, Small and Medium Enterprises (MSMEs) of Chapter – II. 
+ 
+ 
+Since the MSMED Act, 2006 does not provide for clubbing of investments of different 
+enterprises set up by same person / company for the purpose of classification as Micro, 
+Small and Medium enterprises, the Gazette Notification No. S.O.2 (E) dated January 1, 1993 
+on clubbing of investments of two or more enterprises under the same ownership for the 
+purpose of classification of industrial undertakings as SSI has been rescinded vide GOI 
+Notification No. S.O. 563 (E) dated February 27, 2009. 
+SECTION – II. Targets / Sub-Targets For MSME For SFBs 
+ 
+2. 
+Targets / sub-targets for lending to Micro, Small and Medium Enterprises 
+(MSME) sector by Small Finance Banks 
+ 
+2.1 
+Advances to Micro, Small and Medium Enterprises (MSME) sector shall be 
+reckoned in computing achievement under the overall Priority Sector target of 75 
+percent of Adjusted Net Bank Credit (ANBC). 
+ 
+2.2 
+Small Finance Banks are required to achieve a sub-target of 7.5 percent of ANBC 
+for lending to Micro Enterprises. 
+ 
+
+ 
+21 
+ 
+2.3 
+Bank loans above ₹ 5 crore per borrower / unit to Micro and Small Enterprises and 
+₹10 crore to Medium Enterprises engaged in providing or rendering of services 
+and defined in terms of investment in equipment under MSMED Act, 2006, shall not 
+be reckoned in computing achievement under the overall Priority Sector targets as 
+above. 
+ 
+SECTION – III. Common Guidelines For Lending To MSME Sector 
+ 
+3. Common guidelines / instructions for lending to MSME sector 
+ 
+3.1 Issue of Acknowledgement of Loan Applications to MSME borrowers 
+ 
+SFBs are advised to mandatorily acknowledge all loan applications, submitted manually 
+or online, by their MSME borrowers and ensure that a running serial number is recorded 
+on the application form as well as on the acknowledgement receipt. SFBs are further 
+advised to put in place a system of Central Registration of loan applications, online 
+submission of loan applications and a system of e-tracking of MSE loan applications. 
+ 
+3.2 Collateral 
+The guidelines regarding extending collateral free loans to MSE are under examination 
+and a separate communication in this regard shall be made in due course. 
+ 
+3.3 Composite Loan 
+A composite loan limit of Rs.1 crore can be sanctioned by SFBs to enable the MSE 
+entrepreneurs to avail of their working capital and term loan requirement through Single 
+Window. 
+ 
+3.4 General Credit Card (GCC) Scheme 
+SFBs may be guided by the circular no. RPCD.MSME & NFS. BC. No. 
+61/06.02.31/2013-14 dated December 02, 2013 on General Credit Card Scheme for 
+greater credit linkage for all productive activities within the overall Priority Sector 
+guidelines and to capture all credit extended by banks to individuals for non-farm 
+entrepreneurial activity. 
+ 
+ 
+ 
+ 
+
+ 
+22 
+ 
+3.5 Credit Linked Capital Subsidy Scheme (CLSS) 
+Government of India, Ministry of Micro, Small and Medium Enterprises had launched 
+Credit Linked Capital Subsidy Scheme (CLSS) for Technology Upgradation of Micro and 
+Small Enterprises subject to the following terms and conditions: 
+ 
+(i) Ceiling on the loan under the scheme is Rs.1 crore. 
+(ii) The rate of subsidy is 15% for all units of micro and small enterprises up to loan 
+ceiling at Sr. No. (i) above 
+(iii) Calculation of admissible subsidy will be done with reference to the purchase price of 
+plant and machinery instead of term loan disbursed to the beneficiary unit. 
+(iv) SIDBI and NABARD will continue to be implementing agencies of the scheme. 
+ 
+3.6 Streamlining flow of credit to Micro and Small Enterprises (MSEs) for 
+facilitating timely and adequate credit flow during their ‘Life Cycle’: 
+ 
+In order to provide timely financial support to Micro and Small enterprises facing financial 
+difficulties during their ‘Life Cycle’, guidelines were issued to banks vide our circular 
+FIDD.MSME & NFS.BC.No.60/06.02.31/2015-16 dated August 27, 2015 on the 
+captioned subject. SFBs are advised to tune their lending policies to the MSE sector by 
+incorporating therein the provisions in terms of the above circular so as to facilitate timely 
+and adequate availability of credit to viable MSE borrowers especially during the need of 
+funds in unforeseen circumstances. 
+ 
+3.7 Debt Restructuring Mechanism for MSMEs 
+(i) SFBs are advised to follow the guidelines / instructions pertaining to SME Debt 
+Restructuring, as contained in Master Circular DBR.No.BP.BC.2/21.04.048/2015-16 
+dated July 1, 2015 on Prudential norms on Income Recognition, Asset Classification 
+and Provisioning pertaining to Advances’ and as updated from time to time. 
+(ii) SFBs are also advised in terms of our circular RPCD.SME&NFS.BC.No. 
+102/06.04.01/2008-09 dated May 4, 2009 to do the following: 
+ 
+a) put 
+in 
+place 
+loan 
+policies 
+governing 
+extension 
+of 
+credit 
+facilities, 
+Restructuring/Rehabilitation policy for revival of potentially viable sick units / 
+enterprises (now read with guidelines on Framework for Revival and 
+Rehabilitation of Micro, Small and Medium Enterprises issued on March 17, 
+
+ 
+23 
+ 
+2016) and non- discretionary One Time Settlement scheme for recovery of non-
+performing loans for the MSE sector, with the approval of the Board of Directors 
+and 
+b) give wide publicity to the One Time settlement scheme implemented by them, by 
+placing it on the bank’s website and through other possible modes of 
+dissemination. They may allow reasonable time to the borrowers to submit the 
+application and also make payment of the dues in order to extend the benefits of 
+the scheme to eligible borrowers. 
+ 
+3.8 Framework for Revival and Rehabilitation of MSMEs 
+The Ministry of Micro, Small and Medium Enterprises, Government of India, vide their 
+Gazette Notification dated May 29, 2015 had notified a ‘Framework for Revival and 
+Rehabilitation of Micro, Small and Medium Enterprises’ to provide a simpler and 
+faster mechanism to address the stress in the accounts of MSMEs and to facilitate the 
+promotion and development of MSMEs. RBI issued the operating instructions to banks 
+vide circular FIDD.MSME & NFS.BC.No.21/06.02.31/2015-16 on March 17, 2016 on 
+March 17, 2016 after carrying out certain changes in the captioned Framework in 
+consultation with the Government of India, Ministry of MSME so as to make it compatible 
+with the existing regulatory guidelines on ‘Income Recognition, Asset Classification and 
+provisioning pertaining to Advances’. The revival and rehabilitation of MSME units having 
+loan limits up to Rs.25 crore would be undertaken under this Framework. The revised 
+Framework supersedes our earlier Guidelines on Rehabilitation of Sick Micro and Small 
+Enterprises issued vide our circular RPCD. CO. MSME & NFS.BC.40/06.02.31/2012-
+2013 dated November 1, 2012, except those relating to Reliefs and Concessions for 
+Rehabilitation of Potentially Viable Units and One Time Settlement, mentioned in the 
+said circular. SFBs may be guided by the contents of the above circular. 
+3.9 Structured Mechanism for monitoring the credit growth to the MSE sector 
+In view of the concerns emerging from the deceleration in credit growth to the MSE 
+sector, an Indian Banking Association (IBA)-led Sub-Committee (Chairman: Shri K.R. 
+Kamath) was set up to suggest a structured mechanism to be put in place by banks to 
+monitor the entire gamut of credit related issues pertaining to the sector. Based on the 
+recommendations of the Committee, detailed guidelines were issued to the scheduled 
+commercial banks vide our circular RPCD. MSME&NFS.BC.No.74/06.02.31/2012-13 
+dated May 9, 2013. SFBs may be guided by the contents of the above circular. 
+
+ 
+24 
+ 
+SECTION –IV. Institutional Arrangements 
+ 
+4 
+Institutional arrangements 
+4.1 Empowered Committee on MSMEs 
+As part of the announcement made by the Union Finance Minister, Empowered Committees 
+on MSMEs are constituted at the Regional Offices of Reserve Bank of India under the 
+Chairmanship of the Regional Directors with the representatives of SLBC Convenor, senior 
+level officers from two banks having predominant share in MSME financing in the state, 
+representative of SIDBI Regional Office, the Director of MSME or Industries of the State 
+Government, one or two senior level representatives from the MSME Associations in the 
+state, and a senior level officer from SFC/SIDC as members. The Committee would meet 
+periodically and review the progress in MSME financing as also rehabilitation of sick Micro, 
+Small and Medium units. It would also coordinate with other banks/financial institutions and 
+the state government in removing bottlenecks, if any, to ensure smooth flow of credit to the 
+sector. 
+ 
+4.2 Banking Codes and Standards Board of India (BCSBI) 
+The Banking Codes and Standards Board of India (BCSBI) has formulated a Code of Bank's 
+Commitment to Micro and Small Enterprises. This is a voluntary Code, which sets minimum 
+standards of banking practices for banks to follow when they are dealing with Micro and 
+Small Enterprises (MSEs) as defined in the Micro Small and Medium Enterprises 
+Development (MSMED) Act, 2006. It provides protection to MSE and explains how banks 
+are expected to deal with MSE for their day to-day operations and in times of financial 
+difficulty. 
+ 
+The Code does not replace or supersede regulatory or supervisory instructions issued by the 
+Reserve Bank of India and SFBs will comply with such instructions /directions issued by the 
+RBI from time to time. The complete text of the Code is available at the BCSBI's website 
+(www.bcsbi.org.in). 
+ 
+4.3 
+Micro and Small Enterprises Sector – The imperative of Financial Literacy and 
+consultancy support 
+Keeping in view the high extent of financial exclusion in the MSME sector, it is imperative for 
+SFBs that the excluded units are brought within the fold of the formal banking sector. The 
+lack of financial literacy, operational skills, including accounting and finance, business 
+
+ 
+25 
+ 
+planning etc. represent formidable challenges for MSE borrowers underscoring the need for 
+facilitation by banks in these critical financial areas. SFBs may refer to Chapter IV in this 
+regard. 
+ 
+4.4 
+Cluster Approach 
+SFBs may extend banking services in clusters / agglomerations which are as under: 
+ 
+(i) 388 clusters are identified by United Nations Industrial Development Organisation 
+(UNIDO) spread over 21 states in various parts of the country. A list of SME clusters as 
+identified by UNIDO is available in Annex II of the Master Direction - Lending to Micro, 
+Small & Medium Enterprises (MSME) Sector dated July 21, 2016. 
+ 
+(ii) The Ministry of Micro, Small and Medium Enterprises has approved a list of clusters 
+under the Scheme of Fund for Regeneration of Traditional Industries (SFURTI) and 
+Micro and Small Enterprises Cluster Development Programme (MSE-CDP) located in 
+121 Minority Concentration Districts. 
+ 
+4.5 Delayed Payment 
+In the Micro, Small and Medium Enterprises Development (MSMED), Act 2006, the 
+provisions of the Interest on Delayed Payment Act, 1998 to Small Scale and Ancillary 
+Industrial Undertakings, have been strengthened as under: 
+ 
+(i) The buyer has to make payment to the supplier on or before the date agreed upon 
+between him and the supplier in writing or, in case of no agreement, before the 
+appointed day. The period agreed upon between the supplier and the buyer shall not 
+exceed forty five days from the date of acceptance or the day of deemed acceptance. 
+ 
+(ii) In case the buyer fails to make payment of the amount to the supplier, he shall be liable 
+to pay compound interest with monthly rests to the supplier on the amount from the 
+appointed day or, on the date agreed on, at three times of the Bank Rate notified by 
+Reserve Bank. 
+ 
+(iii) For any goods supplied or services rendered by the supplier, the buyer shall be liable to 
+pay the interest as advised at (ii) above. 
+ 
+(iv) In case of dispute with regard to any amount due, a reference shall be made to the 
+Micro and Small Enterprises Facilitation Council, constituted by the respective State 
+Government. 
+
+ 
+26 
+ 
+Further, SFBs are advised to fix sub-limits within the overall working capital limits to the large 
+borrowers specifically for meeting the payment obligation in respect of purchases from 
+MSMEs. 
+ 
+SECTION –V. Committees On Flow Of Credit To MSME Sector 
+ 
+5. 
+SFBs may be guided by the contents of the following circulars while extending credit 
+to MSE sector. 
+ 
+5.1 Report of the High Level Committee on Credit to SSI (now MSE) (Kapur 
+Committee) 
+All scheduled commercial banks were advised vide our circular RPCD.No. PLNFS.BC.22 
+/06.02.31/98-99 
+dated 
+August 
+28, 
+1998 
+to 
+implement 
+the 
+Kapur 
+Committee 
+Recommendations. 
+ 
+5.2 Report of the Committee to Examine the Adequacy of Institutional Credit to SSI 
+Sector (now MSE) and Related Aspects (Nayak Committee) 
+All scheduled commercial banks were advised vide our circular RPCD. PLNFS/ BC. No. 
+61/06.0262/2000-01 dated March 2, 2001 to implement the Nayak Committee 
+Recommendations. 
+ 
+5.3 Report of the Working Group on Flow of Credit to SSI (now MSE) Sector (Ganguly 
+Committee) 
+The recommendations of the Committee was communicated to banks for implementation 
+vide circular RPCD.PLNFS.BC.28/06.02.31 (WG)/ 2004-05 dated September 4, 2004. 
+ 
+5.4 
+Working Group on Rehabilitation of Sick SMEs (Chairman: Dr. K.C. Chakrabarty) 
+Banks were advised vide circular dated RPCD. SME & NFS.BC.No. 102/06.04.01/ 2008-09 
+dated May 4, 2009 to consider implementation of the recommendations, inter alia, that 
+lending in case of all advances upto Rs 2 crores may be done on the basis of scoring model. 
+Banks have further been advised vide circular DBOD. Dir. BC.No. 106/13.03.00/2013-14 
+dated April 15, 2014 to undertake a review of their loan policy governing extension of credit 
+facilities to the MSE sector, with a view to using Board approved credit scoring models in 
+their evaluation of the loan proposals of MSE borrowers. 
+ 
+
+ 
+27 
+ 
+Annexure I 
+MINISTRY OF SMALL SCALE INDUSTRIES 
+NOTIFICATION 
+New Delhi, the 5th October, 2006 
+ 
+S.O. 1722(E) – In exercise of the powers conferred by sub-section (1) of Section 7 of the 
+MSMED Act, 2006 (27 of 2006) herein referred to as the said Act, the Central Government 
+hereby specifies the following items, the cost of which shall be excluded while calculating 
+the investment in plant and machinery in the case of the enterprises mentioned in Section 
+7(1)(a) of the said Act, namely: 
+(i) 
+equipment such as tools, jigs, dyes, moulds and spare parts for maintenance and the 
+cost of consumables stores; 
+(ii) 
+installation of plant and machinery; 
+(iii) 
+research and development equipment and pollution controlled equipment 
+(iv) 
+power generation set and extra transformer installed by the enterprise as per 
+regulations of the State Electricity Board; 
+(v) 
+bank charges and service charges paid to the National Small Industries Corporation 
+or the State Small Industries Corporation; 
+(vi) 
+procurement or installation of cables, wiring, bus bars, electrical control panels (not 
+mounted on individual machines), oil circuit breakers or miniature circuit breakers 
+which are necessarily to be used for providing electrical power to the plant and 
+machinery or for safety measures; 
+(vii) 
+gas producer plants; 
+(viii) transportation charges ( excluding sales-tax or value added tax and excise duty) for 
+indigenous machinery from the place of their manufacture to the site of the 
+enterprise; 
+(ix) 
+charges paid for technical know-how for erection of plant and machinery; 
+(x) 
+such storage tanks which store raw material and finished products and are not linked 
+with the manufacturing process; and 
+(xi) 
+firefighting equipment. 
+ 
+2. 
+While calculating the investment in plant and machinery referred to in paragraph 1, 
+the original price thereof, irrespective of whether the plant and machinery are new 
+or second hand, shall be taken into account provided that in the case of imported 
+machinery, the following shall be included in calculating the value, namely; 
+ 
+(i) 
+Import duty (excluding miscellaneous expenses such as transportation from the port 
+to the site of the factory, demurrage paid at the port); 
+(ii) 
+Shipping charges; 
+(iii) 
+Customs clearance charges; and 
+(iv) 
+Sales tax or value added tax. 
+ 
+----S/d----- 
+ 
+(F.No.4(1)/2006-MSME- Policy) 
+JAWHAR SIRCAR, Addl. Secy. 
+
+ 
+28 
+ 
+CHAPTER IV: FINANCIAL LITERACY 
+SECTION – I Conduct of Financial Literacy Camps by Rural banking outlets 
+manned by bank’s own staff 
+Conduct of Financial Literacy Camps 
+Rural banking outlets manned by bank’s own staff of SFBs are required to conduct one 
+camp per month (on the Third Friday of each month after branch hours). This camp will 
+cover all the messages that are part of the Financial Awareness Messages (FAME) 
+booklet and the two digital platforms UPI and *99# (USSD). The proposed approach by rural 
+banking outlets manned by bank’s own staff is illustrated in Annex I. In case there are two or 
+more such outlets in a village, the LDM may ensure that such outlets conduct the camps on 
+rotation basis every month. 
+Funding support from FIF 
+Rural banking outlets manned by bank’s own staff of SFBs are eligible for funding support 
+for the financial literacy camps to the extent of 60% of the expenditure of the camp subject to 
+a maximum of ₹ 5,000/- per camp. For details on funding, please refer circular No. 
+107/DFIBT-24/ 2017 dated May 4, 2017 issued by NABARD. 
+SECTION – II. Reporting Mechanism 
+Reporting mechanism: 
+The reporting format as in Annexure I has to be submitted to SLBCs / UTLBCs within 30 
+days from the end of the quarter. 
+The above guidelines will come into force from July 1, 2017 and the reporting format will be 
+effective from the quarter ending September 30, 2017. 
+The impact of the financial literacy camps will be assessed / evaluated on an ongoing basis 
+by the Lead District Officers (LDOs) of Reserve Bank of India. 
+ 
+ 
+
+ 
+29 
+ 
+Annexure I 
+ 
+QUARTERLY REPORT ON CONDUCT OF CAMPS BY RURAL BRANCHES OF BANKS 
+ 
+State 
+ 
+ 
+ 
+Quarter ended 
+ 
+ 
+ 
+Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+District 
+No of rural 
+banking outlets 
+manned by 
+bank’s own staff 
+in district 
+No of camps 
+conducted 
+during the 
+quarter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+30 
+ 
+CHAPTER V: FINANCIAL INCLUSION 
+SECTION – I. Financial Inclusion Plans 
+ 
+Financial Inclusion Plans 
+As the Small Finance Banks have been set up to further financial inclusion and their client 
+base would primarily be migrant labour workforce, low income households, small 
+businesses, other unorganised sector entities etc. their internal target should be in line with 
+their objectives. The bank’s Board shall review the progress in this regards on regular basis 
+and submit progress report on monthly basis in respect of the various parameters prescribed 
+by RBI in the Financial Inclusion Plan (FIP) monitoring format. In this connection, the 
+guidelines on FIP for Small Finance Banks are as under: 
+a. Small Finance Banks shall adopt the template of Financial Inclusion Plan provided by 
+RBI to submit granular data upto district level across the four population groups, 
+namely- Metropolitan, Urban, Semi Urban and Rural. The date of submission of the 
+monthly progress shall be 15th of the succeeding month for data pertaining to the 
+previous month. 
+b. Progress in respect of various parameters of FIP shall be monitored on a monthly basis 
+and a review shall be conducted on an annual basis. 
+ 
+ SECTION – II. Business Correspondents 
+ 
+Business Correspondents- Cash Management and Umbrella Insurance 
+SFBs may formulate a policy for engaging Business Correspondents (BCs), with the 
+approval of their Board of Directors and be guided by instructions issued by Department of 
+Banking Regulation (DBR) on Business Correspondents under Master Circular on Branch 
+Authorisation (available on DBOD. No. BAPD.BC. 7/22.01.001/2014-15 dated July 01, 2014) 
+updated from time to time. The activities to be undertaken by the BCs would be within the 
+normal course of banking business. With a view to providing impetus to functioning of BCs in 
+furthering financial inclusion, the following guidelines pertaining to cash management are 
+issued: 
+a. The Boards of the banks must review the operations of BCs at least once every six 
+months with a view to ensuring that the requirement of prefunding of Corporate BCs and 
+
+ 
+31 
+ 
+BC Agents should progressively taper down with the passage of time. Ideally in all 
+normal cases, the prefunding should progressively come down in such a manner so as 
+to reach around 15% of the limits fixed for each BC/CSP in case of deposits and 30% in 
+case of Bank Guarantees, in two years from the time a BC starts operations. 
+b. The Board should also review the position of payment to remuneration of BCs and 
+should also lay down a system of monitoring by the top management of the bank. The 
+issue of allowing BCs to handle deposit and payment transactions of various credits, 
+remittance, overdraft and other products of banks must also be examined by the Board 
+from time to time. Complaints redress system in this regard should also be laid down by 
+the Board. 
+c. The banks should put in place a Board approved mechanism for providing Umbrella 
+Insurance for cash handled by BCs. 
+SECTION – III. SHG-Bank Linkage Programme 
+ 
+SHG-Bank Linkage Programme for Small Finance Banks 
+To scale up the SHGs linkage programme and make it sustainable, SFBs are advised to 
+consider lending to SHGs as part of their mainstream credit operations both at policy and 
+implementation level. They may include SHG linkage in their corporate strategy/plan, training 
+curriculum of their officers and staff and implement it as a regular business activity and 
+monitor and review it periodically. 
+In line with the above, the following guidelines may be considered by SFBs while formulating 
+policies pertaining to Self Help Groups. 
+a. SHG lending to be a part of planning process: Lending to SHGs should be included in 
+branch credit plan, block credit plan, district credit plan and state credit plan of each 
+SFB. While no target is being prescribed under SHG bank linkage programme, utmost 
+priority should be accorded to the sector in preparation of these plans. It should also 
+form an integral part of the bank’s corporate credit plan. 
+b. Opening of Savings Bank A/c: The SHGs registered or unregistered which are 
+engaged in promoting savings habit among their members would be eligible to open 
+savings bank accounts with SFBs. These SHGs need not necessarily have already 
+availed of credit facilities from banks before opening savings bank accounts. KYC 
+
+ 
+32 
+ 
+verification of all the members of SHG shall not be required while opening the savings 
+bank account of the SHG as KYC verification of all the office bearers shall suffice. No 
+separate KYC verification of the members or office bearers shall be necessary at the 
+time of credit linking of SHGs. 
+c. Margin and Security Norms: As per operational guidelines issued by NABARD, SHGs 
+may be sanctioned savings linked loans by banks (varying from a saving to loan ratio of 
+1:1 to 1:4). However, in case of matured SHGs, loans may be given beyond the limit of 
+four times the savings as per the discretion of the bank. 
+d. Documentation: A simple system requiring minimum procedures and documentation is 
+a precondition for augmenting flow of credit to SHGs. Banks should strive to remove all 
+operational irritants and make arrangements to expeditiously sanction and disburse 
+credit by delegating adequate sanctioning powers to branch managers. The loan 
+application forms, procedures and documents should be made simple. It would help in 
+providing prompt and hassle-free credit. 
+e. Presence of defaulters in SHGs: Defaults by a few members of SHGs and/or their 
+family members to the financing bank should not ordinarily come in the way of financing 
+SHGs per se by banks provided the SHG is not in default to it. However, the bank loan 
+may not be utilized by the SHG for financing a defaulter member to the bank. 
+f. Capacity Building and Training: SFBs may initiate suitable steps to internalize the 
+SHGs linkage project and organize exclusive short duration programmes for the field 
+level functionaries. In addition, suitable awareness/sensitization programmes may be 
+conducted for their middle level controlling officers as well as senior officers. 
+g. Monitoring and Review of SHG Lending: The progress of the SHG programme may 
+be reviewed by the SFBs at regular intervals. A progress report, as prescribed vide 
+circular FIDD.FID.BC.No.56/12.01.033/2014-15 dated May 21, 2015, may be sent to 
+NABARD (Micro Credit Innovations Department), Mumbai, on a half-yearly basis, as on 
+30 September and 31 March each year so as to reach within 30 days of the half-year to 
+which the report relates. 
+h. Interest rates: SFBs would have the discretion to decide on the interest rates applicable 
+to loans given by banks to Self Help Groups/member beneficiaries. 
+i. 
+Service/ Processing charges: No loan related and ad hoc service charges/inspection 
+charges should be levied on priority sector loans up to ₹ 25,000. In the case of eligible 
+
+ 
+33 
+ 
+priority sector loans to SHGs/ JLGs, this limit will be applicable per member and not to 
+the group as a whole. 
+j. 
+Total Financial Inclusion and Credit Requirement of SHGs: SFBs have been advised 
+to meet the entire credit requirements of SHG members namely, (a) income generation 
+activities, (b) social needs like housing, education, marriage, etc. and (c) debt swapping. 
+k. Encourage SHG Linkage: SFBs should provide adequate incentives to their branches 
+in financing the Self Help Groups (SHGs) and establish linkages with them, making the 
+procedures absolutely simple and easy while providing for total flexibility in such 
+procedures to suit local conditions. The group dynamics of working of the SHGs need 
+neither be regulated nor formal structures imposed or insisted upon. The approach to 
+financing of SHGs should be totally hassle-free and may include consumption 
+expenditures. 
+ 
+
+ 
+34 
+ 
+CHAPTER VI: FARM SECTOR 
+SECTION – I. Revised Kisan Credit Card (KCC) Scheme 
+1. Introduction 
+The Kisan Credit Card (KCC) scheme was introduced in 1998 for issue of Kisan Credit 
+Cards to farmers on the basis of their holdings for uniform adoption by the banks so that 
+farmers may use them to readily purchase agriculture inputs such as seeds, fertilizers, 
+pesticides etc. and draw cash for their production needs. The scheme was further extended 
+for the investment credit requirement of farmers viz. allied and non-farm activities in the year 
+2004. The scheme was further revisited in 2012 by a working Group under the Chairmanship 
+of Shri T. M. Bhasin, CMD, Indian Bank with a view to simplify the scheme and facilitate 
+issue of Electronic Kisan Credit Cards. The scheme provides broad guidelines to banks for 
+operationalizing the KCC scheme. Implementing banks will have the discretion to adopt the 
+same to suit institution/location specific requirements. 
+2. Applicability of the Scheme 
+The Kisan Credit Card Scheme detailed in the ensuing paragraphs is to be implemented by 
+Commercial Banks, RRBs, Small Finance Banks and Cooperatives. 
+3. Objective / Purpose 
+The Kisan Credit Card scheme aims at providing adequate and timely credit support from 
+the banking system under a single window with flexible and simplified procedure to the 
+farmers for their cultivation and other needs as indicated below: 
+a. 
+To meet the short term credit requirements for cultivation of crops; 
+b. 
+Post-harvest expenses; 
+c. 
+Produce marketing loan; 
+d. 
+Consumption requirements of farmer household; 
+e. 
+Working capital for maintenance of farm assets and activities allied to agriculture; 
+f. 
+Investment credit requirement for agriculture and allied activities. 
+Note: The aggregate of components ‘a’ to ‘e’ above will form the short term credit limit 
+portion and the aggregate of components under ‘f’ will form the long term credit limit portion. 
+
+ 
+35 
+ 
+4. Eligibility 
+i. Farmers - individual/joint borrowers who are owner cultivators; 
+ii. Tenant farmers, oral lessees & share croppers; 
+iii. Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including tenant 
+farmers, share croppers etc. 
+5. Fixation of credit limit / Loan amount 
+The credit limit under the Kisan Credit Card may be fixed as under: 
+5.1 All farmers other than marginal farmers1 : 
+5.1.1 The short term limit to be arrived for the first year (For cultivating single crop in 
+a year): 
+Scale of finance for the crop (as decided by District Level Technical Committee) x Extent of 
+area cultivated + 10% of limit towards post-harvest/household/ consumption requirements + 
+20% of limit towards repairs and maintenance expenses of farm assets + crop insurance 
+and/or accident insurance including PAIS, health insurance & asset insurance. 
+5.1.2 Limit for second & subsequent year 
+First year limit for crop cultivation purpose arrived at as above plus 10% of the limit towards 
+cost escalation / increase in scale of finance for every successive year (2nd, 3rd, 4th and 5th 
+year) and estimated term loan component for the tenure of Kisan Credit Card, i.e., five 
+years. (Illustration I) 
+5.1.3 For cultivating more than one crop in a year 
+The limit is to be fixed as above depending upon the crops cultivated as per proposed 
+cropping pattern for the first year plus an additional 10% of the limit towards cost escalation / 
+increase in scale of finance for every successive year (2nd, 3rd, 4th and 5th year). It is 
+assumed that the farmer adopts the same cropping pattern for the succeeding four years. In 
+case the cropping pattern adopted by the farmer is changed in the subsequent year, the limit 
+may be reworked. (Illustration I) 
+ 
+1 Farmers with landholding of up to 1 hectare (Marginal Farmers). Farmers with a landholding of more than 1 hectare and up to 
+2 hectares (Small Farmers). 
+
+ 
+36 
+ 
+5.1.4 Term loan for investment 
+The term loan for investment is to be made towards land development, minor irrigation, 
+purchase of farm equipment and allied agricultural activities. The banks may fix the quantum 
+of credit for term and working capital limit for agricultural and allied activities, etc., based on 
+the unit cost of the asset/s proposed to be acquired by the farmer, the allied activities 
+already being undertaken on the farm, the bank's judgment on repayment capacity vis-a-vis 
+total loan burden devolving on the farmer, including existing loan obligations. 
+The long term loan limit should be based on the proposed investment(s) during the five year 
+period and the bank's perception on the repaying capacity of the farmer. 
+5.1.5 Maximum Permissible Limit 
+The short term loan limit arrived for the 5th year plus the estimated long term loan 
+requirement will be the Maximum Permissible Limit (MPL) and is to be treated as the Kisan 
+Credit Card limit. 
+5.1.6 Fixation of Sub-limits 
+i. Short term loans and term loans are governed by different interest rates. At present, short 
+term crop loans upto ₹ 3 lakh are covered under Interest Subvention Scheme/Prompt 
+Repayment Incentive scheme of the Government of India2. Further, repayment schedule and 
+norms are different for short term and term loans. Hence, in order to have operational and 
+accounting convenience, the card limit is to be bifurcated into separate sub-limits for short 
+term cash credit limit cum savings account and term loans. 
+ii. Drawing limit for short term cash credit should be fixed based on the cropping pattern. The 
+amount(s) for crop production, repair and maintenance of farm assets and consumption may 
+be allowed to be drawn as per the convenience of the farmer. In case the revision of scale of 
+finance for any year by the district level technical committee exceeds the notional hike of 
+10% contemplated while fixing the five year limit, a revised drawable limit may be fixed in 
+consultation with the farmer. In case such revisions require the card limit itself to be 
+enhanced (4th or 5th year), the same may be done and the farmer be so advised. 
+ 
+2 Currently not applicable to Small Finance Banks. 
+
+ 
+37 
+ 
+iii. For term loans, instalments may be allowed to be withdrawn based on the nature of 
+investment and repayment schedule drawn as per the economic life of the proposed 
+investments. It is to be ensured that at any point of time the total liability should be within 
+the drawing limit of the concerned year. 
+iv. Wherever the card limit / liability so arrived warrants additional security, the banks may 
+take suitable collateral as per their policy. 
+5.2 For Marginal Farmers 
+A flexible limit of ₹ 10, 000 to ₹ 50, 000 may be provided (as Flexi KCC) based on the land 
+holding and crops grown including post-harvest warehouse storage related credit needs and 
+other farm expenses, consumption needs, etc., plus small term loan investment(s) like 
+purchase of farm equipment(s), establishing mini dairy/backyard poultry as per assessment 
+of the Branch Manager without relating it to the value of land. The composite KCC limit is to 
+be fixed for a period of five years on this basis. 
+Wherever higher limit is required due to change in cropping pattern and / or scale of finance, 
+the limit may be arrived at as per the estimation indicated at para 4.1 (Illustration II) 
+6. Disbursement 
+6.1 The short term component of the KCC limit is in the nature of revolving cash credit 
+facility. There should be no restriction in number of debits and credits. The drawing limit for 
+the current season/year could be allowed to be drawn using any of the following delivery 
+channels. 
+i. 
+operation through branch; 
+ii. 
+operation using cheque facility; 
+iii. 
+withdrawal through ATM /debit cards 
+iv. 
+operation through Business Correspondents and ‘banking outlet/part-time banking 
+outlet’3 
+v. 
+operation through PoS available in Sugar Mills/Contract farming companies, etc., 
+especially for tie-up advances; 
+vi. 
+operations through PoS available with input dealers; 
+vii. 
+Mobile based transfer transactions at agricultural input dealers and mandies. 
+ 
+3 DBR’s Circular on Rationalisation of Branch Authorisation Policy- Revision of Guidelines 
+
+ 
+38 
+ 
+Note: (v), (vi) & (vii) to be introduced as early as possible so as to reduce transaction costs 
+of both the bank as well as the farmer. 
+6.2 The long term loan for investment purposes may be drawn as per installment fixed. 
+7. Issue of Electronic Kisan Credit Cards 
+All new KCC must be issued as smart card cum debit card as laid down in Part II of the 
+Annex. Further, at the time of renewal of existing KCC; farmers must be issued smart card 
+cum debit card. 
+The short term credit limit and the term loan limit are two distinct components of the 
+aggregate KCC limit bearing different rates of interest and repayment periods. Until a 
+composite card could be issued with appropriate software to separately account transactions 
+in the sub limits, two separate electronic cards may be issued for all new/renewed cards. 
+8. Validity/Renewal 
+i. 
+Banks may determine the validity period of KCC and its periodic review. 
+ii. 
+The review may result in continuation of the facility, enhancement of limit or cancellation 
+of the limit/withdrawal of the facility depending upon increase in cropping area/pattern 
+and performance of the borrower. 
+iii. 
+When the bank has granted extension and/or re-schedule the period of repayment on 
+account of natural calamities affecting the farmer, the period for reckoning the status of 
+operations as satisfactory or otherwise would get extended together with the extended 
+amount of limit. When the proposed extension is beyond one crop season, the 
+aggregate of debits for which extension is granted is to be transferred to a separate term 
+loan account with stipulation for repayment in installments. 
+9. Rate of Interest (ROI): 
+The rate of interest will be as stipulated in DBR Master Directions on Interest Rate on 
+Advances. 
+10. Repayment Period: 
+10.1 The repayment period may be fixed by banks as per the anticipated harvesting and 
+marketing period for the crops for which the loan has been granted. 
+
+ 
+39 
+ 
+10.2 The term loan component will be normally repayable within a period of 5 years 
+depending on the type of activity/investment as per the existing guidelines applicable for 
+investment credit. 
+10.3 Financing banks may, at their discretion, provide longer repayment period for term loan 
+depending on the type of investment. 
+11. Margin 
+To be decided by banks. 
+12. Security 
+12.1 Security will be applicable as per RBI guidelines prescribed from time to time. 
+12.2 Security requirement may be as under: 
+i. Hypothecation of crops: For KCC limit upto ₹ 1.00 lakh banks are to waive 
+margin/security requirements. 
+ii. With tie-up for recovery: Banks may consider sanctioning loans on hypothecation of 
+crops up to card limit of ₹ 3.00 lakh without insisting on collateral security. 
+iii. Collateral security: Collateral security may be obtained at the discretion of Bank for loan 
+limits above ₹ 1.00 lakh in case of non-tie-up and above ₹ 3.00 lakh in case of tie-up 
+advances. 
+iv. In states where banks have the facility of on-line creation of charge on the land records, 
+the same shall be ensured. 
+13. Other features 
+Uniformity to be adopted in respect of following: 
+13.1 The applicable interest subvention /incentive for prompt repayment 4 as advised by 
+Government of India and/or State Governments. The bankers will give adequate publicity of 
+the facility so that maximum farmers may benefit from the scheme. 
+13.2 Besides the mandatory crop insurance, the KCC holder should have the option to avail 
+the benefit of any type of asset insurance, accident insurance (including PAIS), health 
+ 
+4 Currently not applicable to Small Finance Banks. 
+
+ 
+40 
+ 
+insurance (wherever product is available) and have premium paid through his/her KCC 
+account. Premium has to be borne by the farmer/bank according to the terms of the scheme. 
+Farmer beneficiaries should be made aware of the insurance cover available and their 
+consent (except in case of crop insurance, it being mandatory) is to be obtained, at the 
+application stage itself. 
+13.3 A one-time documentation5 at the first time of availment of KCC loan and thereafter 
+simple declaration (about crops grown/proposed) by farmer from the second year onwards. 
+14. Classification of account as NPA: 
+14.1 The extant prudential norms on income recognition, asset-classification and 
+provisioning6 will apply for loans granted under the KCC Scheme. 
+14.2 Charging of interest is to be done uniformly as is applicable to agricultural advances. 
+15. Processing fee, inspection charges and other charges may be decided by banks. 
+16. Other conditions while implementing the revised guidelines of KCC Scheme: 
+16.1 In case the farmer applies for loan against the warehouse receipt of his produce, the 
+banks would consider such requests as per the established procedure and guidelines. 
+However, when such loans are sanctioned, these should be linked with the crop loan 
+account, if any, and the crop loan outstanding in the account could be settled at the stage of 
+disbursal of the pledge loan, if the farmer so desires. 
+16.2 The National Payments Corporation of India (NPCI) will design the KCC card to be 
+adopted by all the banks with their branding. 
+ 
+5Documentation as per banks internal guidelines 
+6 DBR’s Master Directions on Income Recognition, Asset Classification and Provisioning Norms 
+ 
+ 
+
+ 
+41 
+ 
+ 
+Illustration IA. 
+Small farmer cultivating multiple crops in a year 
+1. 
+Assumptions 
+A. 
+Land holding : 2 acres 
+B. 
+Cropping Pattern 
+Paddy - 1 acre (Scale of finance plus crop insurance per acre : ₹.11000) 
+Sugarcane - 1 acre (Scale of finance plus crop insurance per acre : ₹.22,000) 
+C. 
+Investment / Allied Activities 
+i 
+Establishment of 1+1 Dairy Unit in 1st Year () (Unit Cost : ₹ 20,000 per animal) 
+ii 
+Replacement of Pump set in 3rd year (Unit Cost : ₹.30,000) 
+2. 
+(i) 
+Crop loan Component 
+Cost of cultivation of 1 acre of Paddy and 1acre of 
+Sugarcane (11,000+22,000) 
+: 
+₹.33,000 
+Add : 10% towards post-harvest / household expense / 
+consumption 
+: 
+₹. 3,300 
+Add : 20% towards farm maintenance 
+: 
+₹. 6,600 
+Total Crop Loan limit for 1st year 
+: 
+₹. 42,900 
+Loan Limit for 2nd year 
+ 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 42900 i.e 4300) 
+: 
+₹. 4,300 
+₹. 47,200 
+ 
+Loan Limit for 3rd year 
+: 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 47,200 i.e., 4,700) 
+ 
+₹. 4,700 
+₹. 51,900 
+ 
+: 
+ 
+Loan Limit for 4th year 
+: 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 51,900 i.e 5,200) 
+ 
+₹. 5,200 
+₹. 57,100 
+ 
+: 
+ 
+Loan Limit for 5th year 
+: 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 57100 i.e 5700) 
+ 
+₹. 5,700 
+₹. 62,800 
+Say ….(A) : 
+₹. 63,000 
+ 
+ : 
+ 
+ 
+ 
+ 
+
+ 
+42 
+ 
+(ii) 
+Term loan component : 
+1st Year : Cost of 1+1 Dairy Unit 
+: 
+₹. 40,000 
+3rd Year : Replacement of Pumpset : 
+: 
+₹. 30,000 
+Total term loan amount ….(B) : 
+₹. 70,000 
+Maximum Permissible Limit / 
+ Kisan Credit Card Limit (A) +(B) 
+: 
+₹. 1,33,000 
+ 
+: 
+Rs. 1.33 lakh 
+Note: Drawing Limit will be reduced every year based on repayment schedule of the 
+term loan(s) availed and withdrawals will be allowed up to the drawing limit. 
+B 
+Other farmer cultivating multiple crops in a year 
+1. 
+Assumptions : 
+2. 
+Land Holding : 10 acres 
+3. 
+Cropping Pattern : 
+Paddy - 5 acres (Scale of finance plus crop insurance per acre ₹.11,000) Followed by 
+Groundnut - 5 acres (Scale of finance plus crop insurance per acre ₹.10,000) 
+Sugarcane - 5 acres (Scale of finance plus crop insurance per acre ₹.22,000) 
+4. 
+Investment / Allied Activities : 
+i. 
+Establishment 1+1 Dairy Unit in 1st Year (Unit cost : ₹.50,000) 
+ii. 
+Purchase of Tractor in 1st Year (Unit Cost : ₹.6,00,000) 
+2. 
+Assessment of Card Limit 
+(i) 
+Crop loan Component 
+Cost of cultivation of 5 acres of Paddy, 5 Acres of 
+Groundnut and 5 acres of Sugarcane 
+: 
+₹ 2,15,000 
+Add : 10% towards post-harvest / household expense / 
+consumption 
+: 
+₹ 21,500 
+Add : 20% towards farm maintenance 
+: 
+₹ 43,000 
+Total Crop Loan limit for 1st year 
+: 
+₹ 2,79,500 
+Loan Limit for 2nd year 
+ 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 2,79,500 i.e., 27,950) 
+: 
+₹ 27,950 
+ 
+: 
+₹ 3,07,450 
+Loan Limit for 3rd year 
+ 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 3,07,450 i.e., 30,750) 
+: 
+₹ 30,750 
+
+ 
+43 
+ 
+ 
+: 
+₹ 3,38,200 
+Loan Limit for 4th year 
+ 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 338200 i.e., 33,800) 
+: 
+₹ 33,800 
+ 
+: 
+₹ 3,72,000 
+Loan Limit for 5th year 
+ 
+ 
+Add : 10% of the limit towards cost escalation / increase 
+in scale of finance (10% of 3,72,000 i.e., 37,200) 
+: 
+₹ 37,200 
+: 
+₹ 4,09,200 
+ Say…. 
+(A) 
+: 
+₹ 4,09,000 
+(ii) 
+Term loan component : 
+1st Year : Cost of 1 +1 Dairy Unit 
+: 
+₹ 1,00,000 
+: Purchase of Tractor 
+: 
+₹ 6,00,000 
+Total term loan amount ….(B) 
+₹ 7,00,000 
+ 
+Maximum Permissible Limit / 
+Kisan Credit Card Limit (A) +(B) 
+ 
+ 
+: 
+ 
+ 
+₹ 11,09,000 
+Drawing Limit will be reduced every year based on repayment schedule of the term 
+loan(s) availed and withdrawals will be allowed up to the drawing limit. 
+
+ 
+44 
+ 
+ 
+Illustration II 
+Assessment of KCC LIMIT 
+1. 
+Marginal farmer cultivating single crop in a year 
+1. 
+Assumptions : 
+1. 
+Land holding : 1 acre 
+2. 
+Crops grown : Paddy (Scale of finance plus crop insurance per acre : ₹ 11,000) 
+3. 
+There is no change in Cropping Pattern for 5 years 
+4. 
+Allied Activities to be financed - One Non-Descript Milch Animal ( Unit Cost Rs : 
+15,000) 
+2. 
+Assessment of Card Limit : 
+(i) 
+Crop loan Component 
+(Cost of cultivation for 1 acre of Paddy) 
+: 
+₹ 11,000 
+Add : 10% towards post-harvest / household expense / 
+consumption 
+: 
+₹ 1,100 
+Add : 20% towards farm maintenance 
+ 
+: 
+₹ 2,200 
+Total 
+Crop 
+Loan 
+limit 
+for 
+1st 
+year 
+….(A1) 
+: 
+₹ 14,300 
+(ii) 
+Term Loan Component 
+Cost 
+of 
+One 
+Milch 
+Animal 
+….(B) 
+: 
+₹ 15,000 
+1st Year Composite KCC Limit : (A1) + (B) 
+: 
+₹ 29,300 
+2nd Year : 
+ 
+ 
+Crop loan component : 
+ 
+ 
+A1 plus 10% of crop loan limit (A1) towards cost 
+escalation / increase in scale of finance [14,300+(10% 
+of 
+14300 
+= 
+1430)] 
+….(A2) 
+: 
+₹ 15,730 
+2nd Year Composite KCC Limit : A2+B (15730 + 
+15000) 
+: 
+₹ 30,730 
+3rd Year : 
+ 
+ 
+Crop loan component : 
+ 
+ 
+A2 plus 10% of crop loan limit (A2) towards cost 
+escalation / increase in scale of finance [15,730+(10% 
+of 
+15730 
+= 
+1570)] 
+….(A3) 
+: 
+₹ 17,300 
+3rd Year Composite KCC Limit : A3+B (17,300 + 
+15,000) 
+: 
+₹ 32,300 
+
+ 
+45 
+ 
+4th Year : 
+ 
+ 
+Crop loan component : 
+ 
+ 
+A3 plus 10% of crop loan limit (A3) towards cost 
+escalation / increase in scale of finance [17,300+(10% 
+of 
+17300 
+= 
+1730)] 
+….(A4) 
+: 
+₹ 19,030 
+4th Year Composite KCC Limit : A4+B (19,030 + 
+15,000) 
+ 
+₹ 34,030 
+5th Year : 
+ 
+ 
+Crop loan component : 
+ 
+ 
+A4 plus 10% of crop loan limit (A4) towards cost 
+escalation / increase in scale of finance [19,030+(10% 
+of 
+19,03 
+0 
+= 
+1,900)] 
+….(A5) 
+: 
+₹ 20,930 
+5th Year Composite KCC Limit : A5+B (20,930 + 
+15,000) 
+ 
+₹35,930 
+ 
+Maximum Permissible Limit / 
+Composite 
+KCC 
+Limi 
+Say 
+ 
+ 
+: 
+ 
+ 
+Rs.36,000 
+Note: All the above costs estimated are illustrative in nature. The 
+recommended scale of finance / unit costs may be taken into account while 
+finalising the credit limit. 
+ 
+ 
+
+ 
+46 
+ 
+Delivery Channels - Technical features 
+1 
+Issue of cards 
+The beneficiaries under the scheme will be issued with a Smart card / Debit card (Biometric smart 
+card compatible for use in the ATMs / Hand held Swipe Machines and capable of storing adequate 
+information on farmers identity, assets, land holdings and credit profile etc.). All KCC holders should 
+be provided with any one or a combination of the following types of cards : 
+2 
+Type of Card : 
+A magnetic stripe card with PIN (Personal Identification Number) with an ISO IIN (International 
+Standards Organization International Identification Number) to enable access to all banks ATMs and 
+micro ATMs 
+In cases where the Banks would want to utilize the centralized biometric authentication infrastructure 
+of the UIDAI (Aadhaar authentication), debit cards with magnetic stripe and PIN with ISO IIN with
+biometric authentication of UIDAI can be provided. 
+Debit Cards with magnetic stripe and only biometric authentication can also be provided depending 
+on customer base of the bank. Till such time, UIDAI becomes widespread, if the banks want to get 
+started without inter-operability using their existing centralized bio metric infrastructure, banks may 
+do so. 
+Banks may choose to issue EMV (Europay, MasterCard and VISA, a global standard for 
+interoperation of integrated circuit cards) and RUPAY compliant chip cards with magnetic stripe and 
+pin with ISO IIN. 
+Further, the biometric authentication and smart cards may follow the common open standards 
+prescribed by IDRBT and IBA. This will enable them to transact seamlessly with input dealers as 
+also enable them to have the sales proceeds credited to their accounts when they sell their output at 
+mandies, procurement centers, etc. 
+3 
+Delivery Channels : 
+The following delivery channels shall be put in place to start with so that the Kisan Credit Card is 
+used by the farmers to effectively transact their operations in their KCC account. 
+1. 
+Withdrawal through ATMs / Micro ATM 
+2. 
+Withdrawal through BCs using smart cards. 
+
+ 
+47 
+ 
+3. 
+PoS machine through input dealers 
+4. 
+Mobile Banking with IMPS capabilities / IVR 
+4. 
+Mobile Banking / Other Channels : 
+Provide Mobile banking functionality for KCC Cards / Accounts as well along with Interbank Mobile 
+Payment Service (IMPS of NPCI) capability to allow customers to use this inter-operable IMPS for 
+funds transfer between banks and also to do merchant payment transactions as additional capability 
+for purchases of agricultural inputs. 
+This mobile banking should ideally be on Unstructured Supplementary Data (USSD) platform for 
+wider and safer acceptance. However, the banks can also offer this on other fully encrypted modes 
+(application based or SMS based) to make use of the recent relaxation on transaction limits. Banks 
+can also offer unencrypted mobile banking subject to RBI regulations on transaction limits. 
+It is necessary that Mobile based transaction platforms enabling transactions in the KCC use easy to 
+use SMS based solution with authentication thru' MPIN. Such solutions also need to be enabled on 
+IVR in local language to ensure transparency and security. Such mobile based payment systems 
+should be encouraged by all the banks by creating awareness and by doing proper customer 
+education. 
+With the existing infrastructure available with banks, all KCC holders should be provided with any 
+one or a combination of the following types of cards : 
+* 
+Debit cards (magnetic stripe card with PIN) enabling farmers to operate the limit 
+through all banks ATMs / Micro ATMs 
+* 
+Debit Cards with magnetic stripe and biometric authentication. 
+* 
+Smart cards for doing transactions through PoS machines held by Business 
+Correspondents, input dealers, traders and Mandies. 
+* 
+EMV compliant chip cards with magnetic stripe and pin with ISO IIN. 
+In addition, the banks having a call centre / Inter active Voice Response (IVR), may provide SMS 
+based mobile banking with a call back facility from bank for mobile PIN (MPIN) verification through 
+IVR, thus making a secured SMS based mobile banking facility available to card holders. 
+ 
+ 
+
+ 
+48 
+ 
+SECTION – II. Relief Measure By Banks In Areas Affected By Natural Calamities 
+ 
+BACKGROUND 
+2.1 Periodical but frequent occurrence of natural calamity takes a heavy toll on human life 
+and cause wide spread damage to economic pursuits in one or the other part of the country. 
+The devastation caused by natural calamities calls for massive rehabilitation effort from all 
+agencies. The Central, State and local authorities draw programmes on economic 
+rehabilitation for the people affected by natural calamities. The developmental role assigned 
+to the commercial banks including Small Finance Banks warrant their active support in 
+reviving the economic activities of those affected by the occurrence of a natural calamity. 
+2.2 In terms of the National Disaster Management Framework, there are two funds 
+constituted viz. National Disaster Response Fund (NDRF) and State Disaster Response 
+Fund (SDRF) for providing relief in the affected areas. This framework currently recognizes 
+12 types of natural calamities viz. cyclone, drought, earthquake, fire, flood, tsunami, 
+hailstorm, landslide, avalanche, cloud burst, pest attack and cold wave/frost. Out of these 
+12, for 4 calamities i.e. drought, hailstorms, pest attack and cold wave/frost, the Ministry of 
+Agriculture is the nodal point and for the remaining 8, the Ministry of Home Affairs is the 
+nodal ministry to make the necessary administrative arrangements. A slew of measures for 
+relief are undertaken by the Sovereign (Central/State Government) from time to time to 
+provide relief to the affected people including, inter alia, provision for input subsidies, 
+financial assistance to farmers including small and marginal farmers. 
+2.3 The role of the scheduled commercial banks including Small Finance Banks (SFBs) is to 
+provide relief measure through rescheduling existing loans and sanctioning fresh loans as 
+per the emerging requirement of the borrowers. To enable banks to take uniform and 
+concerted action expeditiously, these directions are issued covering four aspects viz. (i) 
+Institutional Framework (ii) Restructuring of Existing Loans (iii) Providing Fresh Loans and 
+(iv) Other Ancillary Relief Measures. 
+INSTITUTIONAL FRAMEWORK 
+3.1 Establishing Policy/Procedures for dealing with Natural Calamities 
+The area, time of occurrence and intensity of the natural calamity cannot be anticipated. It is, 
+therefore, imperative that banks have a blueprint of action duly approved by the Board of 
+Directors for such eventualities so that the required relief and assistance is provided with 
+
+ 
+49 
+ 
+utmost speed and without any loss of time. Further, all Divisional/Zonal Offices and branches 
+of Scheduled Commercial/Small Finance banks should be familiar with these standing 
+instructions. These standing instructions will immediately come to force after the district/state 
+authorities put in place the requisite declaration. It is essential that these instructions should 
+also be made available to the State Government authorities and all the District Collectors so 
+that all concerned are aware about the action that should be taken by the concerned 
+authorities in the affected area. 
+3.2 Discretionary Powers to Divisional / Zonal Manager of banks 
+The Divisional/Zonal Managers of scheduled commercial/SF banks must be vested with 
+certain discretionary powers to avoid the need to seek fresh approval from their Central 
+Office regarding the line of action decided by the District Consultative Committee/State Level 
+Bankers’ Committee. Some of the areas, among others where such discretionary powers are 
+vital may be the adoption of scale of finance, extension of loan period, margin, security, 
+sanction of new loan keeping in view the total liability of the borrower arising out of the old 
+loan where the asset financed is damaged or lost due to the natural calamity and the new 
+loan financed for creation/repair of such asset(s). 
+3.3 Meeting of State Level Bankers’ Committee (SLBC)/District Consultative 
+Committee (DCC) 
+3.3.1 In the event of an occurrence of a natural calamity which covers a larger part of a 
+State, the State Level Bankers’ Committee convener bank should convene a meeting 
+immediately. The committee, in collaboration with the State Government authorities should 
+evolve a coordinated action plan for implementing the relief programme. If the calamity has 
+affected only a small part of the state/few districts, the convener of the District Consultative 
+Committee of the affected district(s) should convene a meeting immediately. In the special 
+SLBC/DCC meeting, the position of the affected areas may be assessed so as to ensure 
+speedy formulation and implementation of suitable relief measures. 
+3.3.2 In the areas where the calamity is severe, the relief measure(s) implemented should be 
+reviewed periodically through a specially constituted Task Force/Sub-Committee by way of 
+weekly/fortnightly meetings as decided by the SLBC/DCC. 
+ 
+ 
+
+ 
+50 
+ 
+3.4 Declaration of Natural Calamity 
+3. 4.1 It is recognised that declaration of a natural calamity is in the domain of the Sovereign 
+(Central / State Governments). The inputs received from the State Governments reveal that 
+there are no uniform procedures being followed for declaration of natural calamity and issue 
+of declarations / certificates. These declarations/certificates are called by different names 
+such as Annewari, Paisewari, Girdawari, etc. in different States. Nevertheless, the common 
+thread to extend relief measures including reschedulement of loans by banks, is that the 
+crop loss assessed should be 33% or more. For assessing this loss, while some States 
+are conducting crop cutting experiments to determine the loss in crop yield, some others are 
+relying on the eye estimates/visual impressions. 
+3.4.2 In case of extreme situations such as wide-spread floods, etc. when it is largely clear 
+that most of the standing crops have been damaged and/or land and other assets have 
+suffered a wide-spread damage, the matter be deliberated by State Government/District 
+Authorities in the especially convened SLBC/DCC meetings where the concerned 
+Government functionary/District Collector may explain the reasons for not estimating 
+‘Annewari’ (percentage of crop loss – by whatever name called) through crop cutting 
+experiments and that the decision to provide relief for the affected populace needs to be 
+taken based on the eye estimate/visual impressions. 
+3.4.3 In both the cases, however, DCCs/SLBC have to satisfy themselves fully that the crop 
+loss has been 33% or more before acting on these pronouncements. 
+RESTRUCTURUNG OF EXISTING LOANS 
+In the event of a natural calamity, the repaying capacity of the people gets severely affected 
+due to the disruption of their economic activities and loss of economic assets. Therefore, 
+relief in loan repayment, by restructuring the existing loan may become necessary. 
+4.1. Agriculture Loans: Short-term Production Credit (Crop Loans) 
+4.1.1 All short-term loans, except those which are overdue at the time of occurrence of 
+natural calamity, should be eligible for restructuring. The principal amount of the short-
+term loan as well as interest due for repayment in the year of occurrence of the natural 
+calamity may be converted into term loan. 
+4.1.2 The repayment period of the restructured loan may vary depending on the severity 
+of the calamity, the impact on loss of economic assets and distress it caused. A 
+
+ 
+51 
+ 
+maximum repayment period of up to 2 years (including the moratorium period of 1 year) 
+should be allowed if the loss is between 33% and 50%. If the crop loss is 50% or more, 
+repayment period may be extended upto a maximum of 5 years (including the 1 year 
+moratorium period). 
+4.1.3 In all restructured loan accounts, moratorium period of at least one year should be 
+considered. Banks should also not insist on additional collateral security for such 
+restructured loans. 
+4.2 Agriculture Loans: Long term (Investment) Credit 
+4.2.1 The existing term loan installments should be rescheduled keeping in view the 
+repaying capacity of the borrower and the nature of natural calamity viz. 
+ 
+4.2.1.1 Natural Calamities where only crop for that year is damaged and productive 
+assets are not damaged. 
+4.2.1.2 Natural Calamities where the productive assets are partially or totally 
+damaged and borrowers are in need of a new loan. 
+4.2.1.3 In regard to natural calamity under category (4.2.1.1) above, the banks may 
+reschedule the payment of installment during the year of natural calamity and extend 
+the loan period by one year. Under this arrangement the installments defaulted 
+willfully in earlier years will not be eligible for rescheduling. The banks may also have 
+to postpone payment of interest by borrowers. 
+4.2.1.4 In regard to category (4.2.1.2) i.e. where the borrower’s assets are 
+partially/totally damaged, the rescheduling by way of extension of loan period may be 
+determined on the basis of overall repaying capacity of the borrower vis-a-vis his total 
+liability (old term loan, restructured crop loan, if any and the fresh crop/term loan 
+being given) less the subsidies received from the Government agencies, 
+compensation available under the insurance schemes, etc. While the total repayment 
+period for the restructured/fresh term loan will differ on case-to-case basis, generally 
+it should not exceed a period of 5 years. 
+4.3 Other Loans 
+4.3.1 A view needs to be taken by SLBC/DCC depending on the severity of the calamity 
+as to whether a general reschedulement of all other loans (i.e. besides the agriculture 
+loans as indicated above) such as loans granted for allied activities and loans given to 
+rural artisans, traders, micro/small industrial units or in case of extreme situations, 
+
+ 
+52 
+ 
+medium enterprises is required. If such a decision is taken, while recovery of all the 
+loans be postponed by the specified period, banks will have to assess the requirement of 
+the individual borrowers in each such case and depending on the nature of his account, 
+repayment capacity and the need for the fresh loans, appropriate decisions shall be 
+taken by the individual banks 
+4.3.2 The primary consideration before the banks in extending credit to any unit for its 
+rehabilitation should be based on the viability of the venture after the rehabilitation 
+programme is implemented. 
+4.4 Asset Classification 
+The asset classification status of the restructured loans will be as under: 
+4.4.1 The restructured portion of the short term as well as long-term loans may be 
+treated as current dues and need not be classified as NPA. The asset classification of 
+these term loans would thereafter be governed by the revised terms and conditions. 
+Nevertheless, banks are required to make higher provisions for such restructured 
+standard advances as prescribed by Department of Banking Regulation7 from time to 
+time. 
+4.4.2. The asset classification for the remaining dues, which does not form a part of the 
+restructured portion, will continue to be governed by the original terms and conditions of 
+its sanction. Consequently, the dues from the borrower shall be classified by the lending 
+bank under different asset classification categories viz. standard, sub-standard, doubtful 
+and loss. 
+4.4.3. Additional finance, if any, shall be treated as “standard asset” and its future asset 
+classification will be governed by the terms and conditions of its sanction. 
+4.4.4. With the objective to ensure that banks are proactive in extending relief to the 
+affected persons, the benefit of asset classification of the restructured account as on the 
+date of natural calamity will be available only if the restructuring is completed within a 
+period of three months from the date of natural calamity. In the event of extreme 
+calamity, when the SLBC/DCC is of the view that this period will not be sufficient for the 
+banks to reschedule all the affected loans, it should immediately approach the concerned 
+Regional Office of RBI detailing the reasons for seeking extension. Such requests will be 
+considered on the merit of each case. 
+ 
+7 DBR’s Master Directions on Prudential Guidelines on Income Recognition, Asset Classification and 
+Provisioning 
+
+ 
+53 
+ 
+4.4.5 The accounts that are restructured for the second time or more on account of 
+recurrence of natural calamities should retain the same asset classification category on 
+restructuring. Accordingly, for a restructured standard asset, the subsequent 
+restructuring necessitated on account of natural calamity would not be treated as 
+second restructuring, i.e., the standard asset classification will be allowed to be 
+maintained. However, all other restructuring norms will apply. 
+4.5 Utilization of Insurance Proceeds 
+4.5.1 While the above measures relating to rescheduling of loans are intended to provide 
+relief to the farmers, the insurance proceeds should, ideally, compensate their losses. In 
+terms of orders issued by the Department of Agriculture, Cooperation and Farmers 
+Welfare, the Pradhan Mantri Fasal Bima Yojana (PMFBY) has, replaced the existing 
+schemes of National Agricultural Insurance Scheme (NAIS) & Modified National 
+Agricultural Insurance Scheme (MNAIS) with effect from Kharif 2016. Under the scheme 
+all agriculture loans are provided insurance cover for all stages of the crop cycle 
+including post-harvest risks in specified instances. Farmers’ details are required to be 
+entered by banks in the unified portal for crop insurance which is available at www.agri-
+insurance.gov.in in order to facilitate assessment of coverage of crops insured, 
+premiums deducted, etc. 
+4.5.2 While restructuring the loans in areas affected by a natural calamity, banks should 
+also take into account the insurance proceeds, if any, receivable from the Insurance 
+Company. They should adjust these proceeds to the ‘restructured accounts’ in cases 
+where they have granted fresh loan to the borrower. However, banks should act with 
+empathy and consider restructuring and granting fresh loans without waiting for the 
+receipt of insurance claim, in cases where there is reasonable certainty of receiving the 
+claim. 
+ 
+PROVIDING FRESH LOANS 
+5.1 Sanctioning of Fresh Loans 
+5.1.1 Once the decision to reschedule loans is taken by SLBC/DCC, pending conversion 
+of short-term loans, banks shall grant fresh crop loan to the affected people based on the 
+scale of finance for the crop and the cultivation area, as per the extant guidelines8. 
+ 
+8 Master circular on Kisan Credit card Scheme available @ www.rbi.org.in 
+
+ 
+54 
+ 
+5.1.2 The bank assistance in agriculture and allied activities (poultry, fishery, animal 
+husbandry, etc.) may also be needed for long term loans for a variety of purposes such 
+as repair of existing economic asset(s) and/or acquisition of new asset(s). Similarly, rural 
+artisans, self-employed persons, micro and small industrial units, etc. in the areas 
+affected by a natural calamity may require fresh credit to sustain their livelihood. Banks 
+should assess the need and decide on the quantum of loans to be granted to the 
+affected borrowers taking into consideration, amongst others, their credit requirement 
+and the due procedure for sanctioning loans. 
+5.1.3. Banks shall also grant consumption loan up to ₹ 10,000/- to existing borrowers 
+without any collateral. The limit may, however, be enhanced beyond ₹10,000/- at the 
+bank’s discretion. 
+5.2 Terms and Conditions 
+5.2.1 Guarantee, Security and Margin 
+5.2.1.1 Credit should not be denied for want of personal guarantees. Where the 
+bank’s existing security has been eroded because of damage or destruction by 
+floods, assistance will not be denied merely for want of additional fresh security. The 
+fresh loan shall be granted even if the value of security (existing as well as the asset 
+to be acquired from the new loan) is less than the loan amount. For fresh loans, a 
+sympathetic view will have to be taken. 
+5.2.1.2 Where the crop loan (which has been converted into term loan) was earlier 
+sanctioned against personal security/hypothecation of crop and the borrower is not 
+able to offer charge/mortgage of land as security for the converted loan, she/he 
+should not be denied conversion facility merely on the ground of his/her inability to 
+furnish land as security. If the borrower has already taken a term loan against 
+mortgage/charge on land, the bank should be content with a second charge for the 
+converted term loan. Banks should not insist on third party guarantee for providing 
+conversion facility. 
+5.2.1.3 Where land is taken as security, in the absence of original title record, a 
+certificate issued by the Revenue Department officials may be accepted for financing 
+to farmers who have lost proof of their title such as title deed or registration certificate 
+issued to registered share-croppers. 
+5.2.1.4 Margin requirements may be waived or the grant/subsidy given by the 
+concerned State Government may be considered as margin. 
+ 
+
+ 
+55 
+ 
+5.3 Rate of Interest 
+The rates of interest will be in accordance with the directives of the Reserve Bank. Within the 
+areas of their discretion, however, banks are expected to take a sympathetic view of the 
+difficulties of the borrowers and extend a concessional treatment to calamity-affected people. 
+In respect of current dues in default, no penal interest will be charged. The banks should 
+also suitably defer the compounding of interest charges. Banks may not levy any penal 
+interest and consider waiving penal interest, if any, already charged in regard to the loans 
+converted/rescheduled. Depending on the nature and severity of natural calamity, the SLBC/ 
+DCC shall take a view on the interest rate concession that could be extended to borrowers 
+so that there is uniformity in approach among banks in providing relief. 
+OTHER ANCILLARY MEASURES 
+6.1 Relaxation on Know Your Customer (KYC) Norms 
+It needs to be recognized that many persons displaced or adversely affected by a major 
+calamity may not have access to their normal identification and personal records. In such 
+cases a small account based on the photograph and signature or thumb impression 
+rendered in front of the bank official shall be opened. The above instructions will be 
+applicable to cases where the balance in the account does not exceed ₹ 50,000/- or the 
+amount of relief granted (if higher) and the total credit in the account does not exceed ₹1, 
+00,000/- or the amount of relief granted, (if higher) in a year. 
+6.2 Providing access to Banking Service 
+6.2.1 Banks may operate its natural calamity affected branches from temporary premises 
+under advice to the concerned Regional Office of RBI. For continuing the temporary premise 
+beyond 30 days, banks may obtain specific approval from the concerned Regional Office of 
+RBI. Banks may also make arrangements to render banking services in the affected areas 
+by setting up satellite offices, extension counters or mobile banking facilities etc. under 
+intimation to RBI. 
+6.2.2 To meet the immediate cash requirement of the affected people, due importance may 
+be given towards restoring the ATMs or other alternate arrangements maybe provided to 
+avail such facilities. 
+6.2.3 Other measures that banks may initiate at their discretion to alleviate the condition of 
+the affected people could be waiving ATM fees, increasing ATM withdrawal limits; waiving 
+
+ 
+56 
+ 
+overdraft fees/early withdrawal penalty on time deposits /late fee for credit card/other loan 
+instalment payments etc. and giving option to credit card holders to convert their outstanding 
+balance to EMIs repayable in 1-2 years. Besides, all charges debited to the farm loan 
+account other than the normal interest may be waived considering the hardship caused to 
+the affected people. 
+RIOTS AND DISTURBANCES: APPLICABILITY OF THE GUIDELINES 
+7. Applicability of the guidelines in case of riots and disturbances 
+7.1 Whenever RBI advises the banks to extend rehabilitation assistance to the riot/ 
+disturbance affected persons, the aforesaid guidelines may broadly be followed by banks for 
+the purpose. It should, however, be ensured that only genuine persons, duly identified by the 
+State Administration as having been affected by the riots/ disturbances, are provided 
+assistance as per the guidelines. 
+7.2. The issuance of advice to the banks by Reserve Bank of India on receipt of request/ 
+information from State Government and thereafter issue of instructions by banks to their 
+branches generally results in delay in extending the assistance to riot-affected people. With 
+a view to ensuring quick relief to the affected persons, it has been decided that the District 
+Collector, on occurrence of the riots/ disturbances, may ask the Lead Bank Officer to 
+convene a meeting of the DCC, if necessary and submit a report to the DCC on the extent of 
+damage caused to life and property in the area affected by riots/disturbances. If the DCC is 
+satisfied that there has been extensive loss to life and property on account of the riots/ 
+disturbances, the relief as per the above guidelines may be extended to the people affected 
+by the riots/ disturbances. In certain cases, where there are no District Consultative 
+Committees, the District Collector may request the convener of the State Level Bankers’ 
+Committee of the State to convene a meeting of the bankers to consider extension of relief 
+to the affected persons. The report submitted by the Collector and the decision thereon of 
+DCC/ SLBC may be recorded and should form a part of the minutes of the meeting. A copy 
+of the proceedings of the meeting may be forwarded to the concerned Regional Office of the 
+Reserve Bank of India. 
+ 
+ 
+
+ 
+57 
+ 
+SECTION–III. Credit Flow To Agriculture-Agricultural Loans-Waiver Of Margin/Security 
+Requirements 
+ 
+Keeping in view the importance of flow of credit to agriculture, in particular to the smaller 
+borrowers, banks may waive margin/security requirements for agricultural loans upto Rs 1 
+lakh and in the case of agri-business and agri-clinics for loans upto Rs. 5 lakh. 
+ 
+ 
+
+ 
+58 
+ 
+CHAPTER VII: PARTICIPATION UNDER LEAD BANK SCHEME 
+ 
+Small Finance Banks may be invited to SLBC meetings in their respective locations. For the 
+current year (2017-18), they will be only invitees to these meetings and would not be a part 
+of the credit planning exercise. 
+Small Finance Banks will be part of the credit planning exercise from the financial year 2018-
+19. Accordingly, in the respective locations, they will be participating in various fora of the 
+lead bank scheme i.e. SLBC, DLCC/DLRC and BLBC as a regular member from the first 
+quarter of 2018-19. 
+Small Finance Banks may refer to the Master Circular on Lead Bank Scheme dated July 3, 
+2017 to obtain an understanding of the structure of the various fora and functioning of Lead 
+Bank Scheme which is available on RBI website: www.rbi.org.in. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+59 
+ 
+CHAPTER VIII: GOVERNMENT SPONSORED SCHEMES 
+Credit Facilities To SC/ST and Minority Communities 
+SFBs will become part of credit planning exercise under Lead Bank Scheme from the year 
+2018-19. The following Master Circulars relating to NRLM, NULM, Credit facilities to 
+SCs/STs and Minorities will be fully applicable to SFBs with effect from April 1, 2018. 
+i. 
+Master Circular – Deendayal Antyodaya Yojana – National Rural Livelihoods Mission 
+(DAY-NRLM) RBI/2017-18/10– FIDD.GSSD.CO.BC.No.04/09.01.01/2017-18 dated 
+July 1, 2017 
+ii. 
+Master Circular – Deendayal Antyodaya Yojana – National Urban Livelihoods 
+Mission (DAY-NRLM) RBI/2017-18/5 – FIDD.GSSD.CO.BC.No.03/09.16.03/2017-18 
+dated July 1, 2017 
+iii. 
+Master Circular – Credit facilities to Scheduled Castes (SCs) and Scheduled Tribes 
+(STs) – RBI/2017-18/7 – FIDD.CO.GSSD.BC.No.06/09.09.01/2017-18 July 1, 2017 
+iv. 
+Master Circular – Credit facilities to Minority Communities – RBI/2017-18/6 – 
+FIDD.GSSD. BC.No.05/09.10.01/2017-18 dated July 1, 2017 
+Small Finance Banks may refer to the above Master Circulars to obtain an understanding of 
+the schemes and the reporting mechanism prescribed thereunder. The Master Circulars are 
+available under the following link in the website of RBI. 
+https://www.rbi.org.in/Scripts/BS_ViewMasterCirculardetails.aspx?did=343

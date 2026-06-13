@@ -7,14 +7,20 @@ export default defineConfig({
   root: "frontend",
   build: {
     outDir: "../dist",
-    emptyOutDir: true
+    emptyOutDir: true,
   },
   server: {
-    port: 5173
+    port: 5173,
+    proxy: {
+      "/api": {
+        target: "http://localhost:5000",
+        changeOrigin: true,
+      },
+    },
   },
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "frontend")
-    }
-  }
+      "@": path.resolve(__dirname, "frontend"),
+    },
+  },
 });
